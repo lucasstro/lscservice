@@ -1,4 +1,5 @@
 0.0.0.0 betano.com
+0.0.0.0 br.betano.com
 0.0.0.0 betway.com
 0.0.0.0 f12.bet
 0.0.0.0 leovegas.com
