@@ -1,14 +1,14 @@
-0.0.0.0 betano.com
-0.0.0.0 br.betano.com
-0.0.0.0 betway.com
-0.0.0.0 f12.bet
-0.0.0.0 leovegas.com
-0.0.0.0 bet365.com
-0.0.0.0 betfair.com
-0.0.0.0 paddypower.com
-0.0.0.0 888sport.com
-0.0.0.0 unibet.com
-0.0.0.0 bwin.com
-0.0.0.0 tonybet.com
-0.0.0.0 22bet.com
-0.0.0.0 jogoresponsavel.com.br
+betano.com
+br.betano.com
+betway.com
+f12.bet
+leovegas.com
+bet365.com
+betfair.com
+paddypower.com
+888sport.com
+unibet.com
+bwin.com
+tonybet.com
+22bet.com
+jogoresponsavel.com.br
