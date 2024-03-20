@@ -1,0 +1,8 @@
+:global id YOUR_CHAT_ID
+:global token YOUR_TOKEN_KEY
+:global message YOUR_MESSAGE
+/tool fetch url="https://api.telegram.org/bot$token/sendmessage\?chat_id=$id&text=$message"
+:delay 3s;
+/system script environment remove [/system script environment find]
+:delay 1s;
+/file remove [find where name~"sendmessage"];
