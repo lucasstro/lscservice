@@ -1,0 +1,28 @@
+!
+! Title: Payments
+! Description: Bank and payments DNS List
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/pihole/Adlist/bank.txt
+! Last modified: 2024-11-25
+!
+||mercadopago.com.br^
+||bradesco.com^
+||bradesco.banco^
+||itau.com.br^
+||itau.banco^
+||pagseguro.uol.com.br^
+||paypal.com^
+||picpay.com.br^
+||iti.com.br^
+||iti.banco^
+||caixa.gov.br^
+||caixa.com.br^
+||cef.gov.br^
+||bb.com.br^
+||bb.banco^
+||inter.co^
+||inter.banco^
+||bancomercantil.com.br^
+||safra.com.br^
+||next.me^
+||sodexobeneficios.com.br^
