@@ -1,3 +1,13 @@
+!
+! Title: BetSites
+! Description: list of betting site domains
+! Version: 1
+! Homepage: https://github.com/lucasstro/lscservice
+! Last modified: 2024-11-24
+!
+! Source name: BetSites
+! Source: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/pihole/Adlist/betsites.txt
+!
 betano.com
 br.betano.com
 betway.com
