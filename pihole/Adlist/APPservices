@@ -1,0 +1,20 @@
+!
+! Title: Services
+! Description: APP services, ifood, uber
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/pihole/Adlist/appservices.txt
+! Last modified: 2024-11-25
+!
+||ifood.com.br^
+||uber.com^
+||99app.com^
+||ze.delivery^
+||rappi.com.br^
+||jamesdelivery.com.br^
+||soudaki.com^
+||apoioentrega.com^
+||mercado.carrefour.com.br^
+||carrefour.com.br^
+||supernosso.com^
+||casasbahia.com.br^
+||imgs.via.com.br^
