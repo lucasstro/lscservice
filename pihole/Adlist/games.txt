@@ -1,5 +1,14 @@
-# LISTA DE SITES E APPS DE GAMES
-# ff.garena.com
+!
+! Title: Games List
+! Description: list of gaming website domains
+! Version: 1
+! Homepage: https://github.com/lucasstro/lscservice
+! Last modified: 2024-11-24
+!
+! Source name: Games List
+! Source: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/pihole/Adlist/games.txt
+!
+ff.garena.com
 roblox.com
 clickjogos.com.br
 happy-easter777.com
