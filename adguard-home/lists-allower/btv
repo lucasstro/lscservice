@@ -1,0 +1,13 @@
+!
+! Title: BTV ALLOWER
+! Description: Btv DNS List
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/btv.txt
+! Last modified: 2024-12-11
+!
+@@||filemate*.*^$important
+@@||appsflyersdk.*^$important
+@@||uvlauncher.*^$important
+@@||b7799.*^$important
+@@||6p71hs.*^$important
+@@||android.bugly.qq.com^$important
