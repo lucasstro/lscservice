@@ -1,0 +1,28 @@
+!
+! Title: Microsoft Services
+! Description: Microsoft Services allower DNS List
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/list-allower/microsoft-services.txt
+! Last modified: 2024-12-12
+!
+@@||azmk8s.io^$important
+@@||azure-api.net^$important
+@@||azure-mobile.net^$important
+@@||azure.com^$important
+@@||azure.net^$important
+@@||azurecontainer.io^$important
+@@||azurecr.io^$important
+@@||azureedge.net^$important
+@@||azurefd.net^$important
+@@||azurewebsites.net^$important
+@@||cloudapp.net^$important
+@@||hotmail.com^$important
+@@||live.com^$important
+@@||microsoft.com^$important
+@@||msecnd.net^$important
+@@||onmicrosoft.com^$important
+@@||outlook.com^$important
+@@||trafficmanager.net^$important
+@@||visualstudio.com^$important
+@@||windows.com^$important
+@@||windows.net^$important
