@@ -1,0 +1,14 @@
+!
+! Title: Google Allower
+! Description: Google services DNS List
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/list-allower/google-allower.txt
+! Last modified: 2024-12-12
+!
+@@||gvt*.com^$important
+@@||www.googletagmanager.com^$important
+@@||firebaselogging-pa.googleapis.com^$important
+@@||semanticlocation-pa.googleapis.com^$important
+@@||userlocation.googleapis.com^$important
+@@||ogads-pa.clients6.google.com^$important
+@@||clientservices.googleapis.com^$important
