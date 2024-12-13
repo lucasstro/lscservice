@@ -1,0 +1,21 @@
+!
+! Title: e-commerce
+! Description: e-commerce domains
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/e-commerce.txt
+! Last modified: 2024-12-13
+!
+@@||aliexpress.com^$important
+@@||amazon.com.br^$important
+@@||americanas.com.br^$important
+@@||casasbahia.com.br^$important
+@@||centauro.com.br^$important
+@@||enjoei.com.br^$important
+@@||extra.com.br^$important
+@@||magazineluiza.com.br^$important
+@@||mercadolivre.com.br^$important
+@@||netshoes.com.br^$important
+@@||shein.com^$important
+@@||shopee.com.br^$important
+@@||submarino.com.br^$important
+@@||temubrasil.com^$important
