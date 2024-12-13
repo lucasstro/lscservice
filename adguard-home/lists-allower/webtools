@@ -1,0 +1,16 @@
+!
+! Title: Web tools
+! Description: Web tools domains
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/webtools
+! Last modified: 2024-12-13
+!
+@@||calculator.net^$important
+@@||github.com^$important
+@@||foradoar.org/
+@@||smallseotools.com^@important
+@@||store.rg-adguard.net^$important
+@@||canva.com^$important
+@@||site24x7.com^$important
+@@||isitdownrightnow.com^$important
+@@||video-converter.com^$important
