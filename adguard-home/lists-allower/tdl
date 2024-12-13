@@ -1,0 +1,17 @@
+!
+! Title: Trusted Domain Levels
+! Description: Governament and nom governament domains
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/tdl
+! Last modified: 2024-12-13
+!
+@@||gov^$important
+@@||gov.*^$important
+@@||org^$important
+@@||org.*^$important
+@@||lscservice.net^$important
+@@||adguard.com^$important
+@@||bitdefender.com^$important
+@@||squarespace.com^$important
+@@||tp-link.com^$important
+@@||mikrotik.com^$important
