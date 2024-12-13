@@ -2,7 +2,7 @@
 ! Title: e-commerce
 ! Description: e-commerce domains
 ! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/e-commerce.txt
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/e-commerce
 ! Last modified: 2024-12-13
 !
 @@||aliexpress.com^$important
