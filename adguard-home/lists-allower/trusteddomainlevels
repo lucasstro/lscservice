@@ -2,7 +2,7 @@
 ! Title: Trusted Domain Levels
 ! Description: Governament and nom governament domains
 ! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/tdl
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/trusteddomainlevels
 ! Last modified: 2024-12-13
 !
 @@||gov^$important
@@ -22,3 +22,4 @@
 @@||umidigi.com^important
 @@||apple.com^important
 @@||android.com^$important
+@@||cloudfront.net^$important
