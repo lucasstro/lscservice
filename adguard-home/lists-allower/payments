@@ -1,0 +1,30 @@
+!
+! Title: Payments
+! Description: Bank and payments DNS List
+! Version: 2
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/payments
+! Last modified: 2024-12-13
+!
+@@||banco^$important
+@@||bancomercantil.com.br^$important
+@@||bb.banco^$important
+@@||bb.com.br^$important
+@@||bradesco.banco^$important
+@@||bradesco.com^$important
+@@||bradesco.us-4.evergage.com^$important
+@@||caixa.com.br^$important
+@@||caixa.gov.br^$important
+@@||cef.gov.br^$important
+@@||inter.banco^$important
+@@||inter.co^$important
+@@||itau.banco^$important
+@@||itau.com.br^$important
+@@||iti.banco^$important
+@@||iti.com.br^$important
+@@||mercadopago.com.br^$important
+@@||next.me^$important
+@@||pagseguro.uol.com.br^$important
+@@||paypal.com^$important
+@@||picpay.com.br^$important
+@@||safra.com.br^$important
+@@||sodexobeneficios.com.br^$important
