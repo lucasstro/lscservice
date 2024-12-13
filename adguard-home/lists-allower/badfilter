@@ -5,5 +5,5 @@
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/badfilter.txt
 ! Last modified: 2024-12-13
 !
-@@||minerva.devices.a2z.com^$badfilter
-@@||use1-device-telemetry-gw.iot.i.tplinknbu.com^$badfilter
+||minerva.devices.a2z.com^$badfilter
+||use1-device-telemetry-gw.iot.i.tplinknbu.com^$badfilter
