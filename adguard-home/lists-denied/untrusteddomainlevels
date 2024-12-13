@@ -2,7 +2,7 @@
 ! Title: Untrust
 ! Description: Untrust TLD
 ! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/untrust
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/untrusteddomainlevels
 ! Last modified: 2024-12-13
 !
 ||baidu.com^$important
