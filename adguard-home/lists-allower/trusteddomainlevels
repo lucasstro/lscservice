@@ -23,4 +23,6 @@
 @@||apple.com^important
 @@||android.com^$important
 @@||cloudfront.net^$important
-@@||tplinknbu.com^$important
+@@||*samsung*.*^$important
+@@||*tplink*.*^$important
+@@||*tp-link*.*^$important
