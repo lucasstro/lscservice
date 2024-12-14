@@ -1,0 +1,37 @@
+!
+! Title: bet-sites
+! Description: bets domains
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/bet-sites
+! Last modified: 2024-12-13
+!
+||1win-bet-br.*^important
+||22bet.*^important
+||888sport.*^important
+||bet365.*^important
+||bet365.com.br^important
+||bet7.*^important
+||bet7k.*^important
+||betano.*^important
+||betfair.*^important
+||betnacional.*^important
+||betway.*^important
+||blaze*.*^important
+||blaze.*^important
+||brazino777.*^important
+||bwin.*^important
+||estrelabet.*^important
+||f12.bet^important
+||jogoresponsavel.com.br^important
+||kto.*^important
+||leovegas.com^important
+||mcwcassino.*^important
+||netbet.*^important
+||paddypower.*^important
+||sportingbet.*/pt-br^important
+||sportsbet.*^important
+||theplayoffs.com.br^important
+||tonybet.*^important
+||unibet.*^important
+||vodds.*^important
+||*bet*.*^important
