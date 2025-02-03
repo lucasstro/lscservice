@@ -33,7 +33,7 @@
 @@||cloudflare.com^$important
 @@||messagebird.com^$important
 @@||cnpj.biz^$important
-@@||registry-1.docker.io^importnat
-@@||docker.io^importnat
-@@||android.com^importnat
-@@||www.4x4brasil.com.br^importnat
+@@||registry-1.docker.io^$importnat
+@@||docker.io^$importnat
+@@||android.com^$importnat
+@@||www.4x4brasil.com.br^$importnat
