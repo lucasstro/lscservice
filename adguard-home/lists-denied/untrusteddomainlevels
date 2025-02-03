@@ -5,21 +5,21 @@
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/untrusteddomainlevels
 ! Last modified: 2024-12-13
 !
+*$denyallow=com|net|br|io|pt|org|tv|be|ai|app
 ||baidu.com^$important
 ||hao123.com^$important
-||ru^$important
-||kr^$important
-||kp^$important
-||cm^$important
-||vn^$important
-||cc^$important
-||ws^$important
-||xyz^$important
-||icu^$important
-||cn^$important
-||uk^$important
-||tk^$important
-||bet^$important
-||vn^$important
+#||ru^$important
+#||kr^$important
+#||kp^$important
+#||cm^$important
+#||vn^$important
+#||cc^$important
+#||ws^$important
+#||xyz^$important
+#||icu^$important
+#||cn^$important
+#||uk^$important
+#||tk^$important
+#||bet^$important
+#||vn^$important
 ||googleadservices.com^$important
-*$denyallow=com|net|br|io
