@@ -5,12 +5,12 @@
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/list-allower/meta-services
 ! Last modified: 2025-01-28
 !
-@@||whatsapp.com^important
-@@||whatsapp.net^important
-@@||facebook.com^important
-@@||instagram.com^important
-@@||messenger.com^important
-@@||web.facebook.com^important
-@@||graph.facebook.com^important
-@@||mqtt.facebook.com^important
-@@||graph-fallback.facebook.com^importnat
+@@||whatsapp.com^$important
+@@||whatsapp.net^$important
+@@||facebook.com^$important
+@@||instagram.com^$important
+@@||messenger.com^$important
+@@||web.facebook.com^$important
+@@||graph.facebook.com^$important
+@@||mqtt.facebook.com^$important
+@@||graph-fallback.facebook.com^$importnat
