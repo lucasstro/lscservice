@@ -22,4 +22,4 @@
 ||bet^$important
 ||vn^$important
 ||googleadservices.com^$important
-*$denyallow=com|net|br
+*$denyallow=com|net|br|io
