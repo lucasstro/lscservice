@@ -5,6 +5,7 @@
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/trusteddomainlevels
 ! Last modified: 2024-12-13
 !
+@@||*^$client=127.0.0.1
 @@||gov^$important
 @@||gov.*^$important
 @@||org^$important
