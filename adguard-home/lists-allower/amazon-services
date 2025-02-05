@@ -1,0 +1,14 @@
+!
+! Title: amazon Services
+! Description: Meta Services allower DNS List
+! Version: 1
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/list-allower/amazon-services.txt
+! Last modified: 2025-02-05
+!
+@@||s.ss2.us^$important
+@@||amazon.com^$important^$important
+@@||aws.amazon.com^$important^$important
+@@||a2z.com^$important
+@@||media-amazon.com^$important
+@@||ssl-images-amazon.com^$important
+@@||amazontrust.com^$important
