@@ -14,6 +14,7 @@
 @@||extra.com.br^$important
 @@||magazineluiza.com.br^$important
 @@||mercadolivre.com.br^$important
+@@||*.mercadolivre.com.br^$important
 @@||netshoes.com.br^$important
 @@||shein.com^$important
 @@||shopee.com.br^$important
@@ -23,3 +24,4 @@
 @@||olx.com.br^$important
 @@||electrolux.com.br^$importnat
 @@||print1.mercadoclics.com^$importnat
+@@||*.shopee.com^$importnat
