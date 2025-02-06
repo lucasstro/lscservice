@@ -20,3 +20,4 @@
 @@||www.googleadservices.com^$important
 @@||*.*.goog^$important
 @@||play.googleapis.com^$important
+@@||csp.withgoogle.com^$important
