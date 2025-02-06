@@ -2,7 +2,7 @@
 ! Title: BTV Allower
 ! Description: Btv DNS List
 ! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/btv-allower.txt
+! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/btv-allower
 ! Last modified: 2024-12-11
 !
 @@||filemate*.*^$important
@@ -14,3 +14,13 @@
 @@||adbeat.club^$important
 @@||pctmetric.siohzb6qq.xyz^$important
 @@||pctmetric.q4gtvmf3g.xyz^$important
+@@||rdns.duoprime.xyz^$important
+@@||appfmetric.svr3456.services^$important
+@@||rdns.b20.host^$important
+@@||rdns.7we8hnfgj.xyz^$important
+@@||rdns.b44aowyno.xyz^$important
+@@||rdns.duoprime.xyz^$important
+@@||rdns.7we8hnfgj.xyz^$important
+@@||rdns.b44aowyno.xyz^$important
+@@||plog.inner002.xyz^$important
+@@||adres.adbeat.xyz^$important
