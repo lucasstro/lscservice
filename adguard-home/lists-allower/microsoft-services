@@ -31,5 +31,6 @@
 @@||windows.com^$important
 @@||windows.net^$important
 @@||msedge.net^$important
-@@||store.microsoft.com
-@@||download.microsoft.com
+@@||store.microsoft.com^$important
+@@||download.microsoft.com^$important
+@@||in.appcenter.ms^$important
