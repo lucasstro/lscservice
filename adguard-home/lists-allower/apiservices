@@ -16,3 +16,6 @@
 @@||logs.netflix.com^$importnat
 @@||events-api.soundcloud.com^$importnat
 @@||strongman-regional.api.smartthings.com^$important
+@@||*.ifood.*^$importnat
+@@||*.uber.*^$importnat
+@@||*.99pop.*^$importnat
