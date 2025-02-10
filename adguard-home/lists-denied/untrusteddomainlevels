@@ -6,8 +6,8 @@
 ! Last modified: 2025-02-03
 !
 *$denyallow=com|net|br|io|pt|org|tv|be|ai|app|goog|gov|banco|co|edu|wiki|info|community|forum|arpa|bradesco|itau|inter|ms|amazon|globo|santander|seg
-||baidu.com^$important
-||hao123.com^$important
+||baidu.com^
+||hao123.com^
 #||ru^$important
 #||kr^$important
 #||kp^$important
@@ -22,9 +22,9 @@
 #||tk^$important
 #||bet^$important
 #||vn^$important
-||googleadservices.com^$important
-||*.googleadservices.com^$important
-||adservice.google.com^$important
-||*.googlesyndication.com^$important
-||*.*.googlesyndication.com^$important
-||*.googleapis.com^$important
+||googleadservices.com^
+||*.googleadservices.com^
+||adservice.google.com^
+||*.googlesyndication.com^
+||*.*.googlesyndication.com^
+||*.googleapis.com^
