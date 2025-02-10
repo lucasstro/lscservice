@@ -26,4 +26,5 @@
 ||*.googleadservices.com^$important
 ||adservice.google.com^$important
 ||*.googlesyndication.com^$important
-||*.*.googlesyndication.com
+||*.*.googlesyndication.com^$important
+||*.googleapis.com^$important
