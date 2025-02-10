@@ -23,6 +23,7 @@
 #||bet^$important
 #||vn^$important
 ||googleadservices.com^$important
-||pagead2.googlesyndication.com
-||adservice.google.com
-||afs.googlesyndication.com
+||pagead2.googlesyndication.com^$important
+||adservice.google.com^$important
+||afs.googlesyndication.com^$important
+||tpc.googlesyndication.com^$important
