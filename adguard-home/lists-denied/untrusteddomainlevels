@@ -22,9 +22,10 @@
 #||tk^$important
 #||bet^$important
 #||vn^$important
-||googleadservices.com^
-||*.googleadservices.com^
-||adservice.google.com^
-||*.googlesyndication.com^
-||*.*.googlesyndication.com^
-||*.googleapis.com^
+||googleadservices.com^$important
+||*.googleadservices.com^$important
+||adservice.google.com^$important
+||*.googlesyndication.com^$important
+||*.*.googlesyndication.com^$important
+||*.googleapis.com^$important$important
+||www.googleadservices.com^$important
