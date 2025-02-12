@@ -11,3 +11,6 @@
 /googlesyndication/
 /googleadservices/
 /googleapis/
+/googletagmanager/
+||www.googleadservices.com^$important
+/sstatic/
