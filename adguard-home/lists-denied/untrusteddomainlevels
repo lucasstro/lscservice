@@ -17,3 +17,4 @@
 /sstatic/
 ||adservice.google.com^$important
 ||ads.youtube.com^$important
+||tpc.googlesyndication.com^$important
