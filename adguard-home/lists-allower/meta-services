@@ -16,3 +16,7 @@
 @@||*.facebook.com^$important
 @@||*.whatsapp.net^$important
 @@||*.whatsapp.com^$important
+@@||*.facebook.net^$important
+@@||facebook.net^$important
+@@||fb.com^$important
+@@||*.fb.com^$important
