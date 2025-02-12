@@ -13,6 +13,9 @@
 /googleapis/
 /googletagmanager/
 /hotjar/
+/banner/
+/lead/
+/leads/
 ||www.googleadservices.com^
 /sstatic/
 ||adservice.google.com^
