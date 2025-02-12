@@ -12,11 +12,10 @@
 /googleadservices/
 /googleapis/
 /googletagmanager/
-/hotjar/
-/banner/
-/lead/
-/leads/
-/ads/
+/*hotjar*/
+/*banner*/
+/*lead*/
+/*ads*/
 ||www.googleadservices.com^
 /sstatic/
 ||adservice.google.com^
