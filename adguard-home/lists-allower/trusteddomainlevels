@@ -56,3 +56,5 @@
 @@||tvx.adgrx.com^$important
 @@||st.agrd.eu^$important
 @@||*.docker.*^$important
+@@||*.tiktokv.*^$important
+@@||*.tiktok.*^$important
