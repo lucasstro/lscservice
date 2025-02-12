@@ -12,5 +12,7 @@
 /googleadservices/
 /googleapis/
 /googletagmanager/
+/hotjar/
 ||www.googleadservices.com^$important
 /sstatic/
+||adservice.google.com^$important
