@@ -18,3 +18,4 @@
 ||adservice.google.com^$important
 ||ads.youtube.com^$important
 ||tpc.googlesyndication.com^$important
+||*.safeframe.googlesyndication.com^$important
