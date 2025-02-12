@@ -10,7 +10,9 @@
 @@||bb.banco^$important
 @@||bb.com.br^$important
 @@||bradesco.banco^$important
-@@||bradesco.com^$important
+@@||bradesco.com.br^$important
+@@||*.bradesco^$important
+@@||.banco^$important
 @@||bradesco.us-4.evergage.com^$important
 @@||caixa.com.br^$important
 @@||caixa.gov.br^$important
