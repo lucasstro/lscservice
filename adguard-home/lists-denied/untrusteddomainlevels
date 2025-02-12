@@ -1,11 +1,11 @@
 !
 ! Title: Untrust
 ! Description: Untrust TLD
-! Version: 1
+! Version: 5
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/untrusteddomainlevels
-! Last modified: 2025-02-03
+! Last modified: 2025-02-12
 !
-*$denyallow=com|net|br|io|pt|org|tv|be|ai|app|goog|gov|banco|co|edu|wiki|info|community|forum|arpa|bradesco|itau|inter|ms|amazon|globo|santander|seg|mibi
+*$denyallow=com|net|br|io|pt|org|tv|be|ai|app|goog|gov|banco|co|edu|wiki|info|community|forum|arpa|bradesco|itau|inter|ms|amazon|globo|santander|seg|mibi|tec
 ||baidu.com^
 ||hao123.com^
 #||ru^$important
