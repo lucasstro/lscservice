@@ -13,9 +13,9 @@
 /googleapis/
 /googletagmanager/
 /hotjar/
-||www.googleadservices.com^$important
+||www.googleadservices.com^
 /sstatic/
-||adservice.google.com^$important
-||ads.youtube.com^$important
-||tpc.googlesyndication.com^$important
-||*.safeframe.googlesyndication.com^$important
+||adservice.google.com^
+||ads.youtube.com^
+||tpc.googlesyndication.com^
+||*.safeframe.googlesyndication.com^
