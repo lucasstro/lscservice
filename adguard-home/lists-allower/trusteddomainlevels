@@ -25,6 +25,7 @@
 @@||android.com^$important
 @@||cloudfront.net^$important
 @@||*samsung*.*^$important
+@@||auth.api.smartthings.com^$important
 @@||*tplink*.*^$important
 @@||*tp-link*.*^$important
 @@||amazon.com^$important
