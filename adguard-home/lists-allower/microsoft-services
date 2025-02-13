@@ -35,5 +35,5 @@
 @@||download.microsoft.com^$important
 @@||in.appcenter.ms^$important
 @@||update.windows.com^$important
-@@||edge.skype.com^$important
+@@||*.skype.com^$important
 @@||installer.teams.static.microsoft^$important
