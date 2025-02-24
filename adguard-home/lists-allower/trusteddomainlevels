@@ -59,3 +59,4 @@
 @@||*.docker.*^$important
 @@||*.tiktokv.*^$important
 @@||*.tiktok.*^$important
+@@||www.reddit.com^$important
