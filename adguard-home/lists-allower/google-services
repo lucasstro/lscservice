@@ -15,6 +15,7 @@
 @@||*.google.com^$important
 @@||youtube.com^$important
 @@||gstatic.com^$important
+@@||www.gstatic.com^$important
 @@||s.youtube.com^$important
 @@||dns-tunnel-check.googlezip.net^$important
 @@||*.*.goog^$important
