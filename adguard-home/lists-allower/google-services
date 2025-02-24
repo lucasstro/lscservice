@@ -41,4 +41,5 @@
 @@||android.googleapis.com^$important
 @@||mobilemaps-pa-gz.googleapis.com^$important
 @@||pay.google.com^$important
-@@||firebaseinstallations.googleapis.com
+@@||firebaseinstallations.googleapis.com^$important
+@@||translate-pa.googleapis.com^$important
