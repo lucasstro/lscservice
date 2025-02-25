@@ -60,3 +60,7 @@
 @@||*.tiktokv.*^$important
 @@||*.tiktok.*^$important
 @@||www.reddit.com^$important
+@@||mybbc-analytics.files.bbci.co.uk^$important
+@@||gn-flagpoles.api.bbci.co.uk^$important
+@@||static.files.bbci.co.uk^$important
+@@||ichef.bbci.co.uk^$important
