@@ -27,3 +27,6 @@
 @@||api2.amplitude.com^$important
 @@||api.lab.amplitude.com^$important
 @@||*.*.globo.com^important
+@@||display.meli.com^$important
+@@||print1.mercadoclics.com^$important
+@@||static.meli.com^$important
