@@ -12,15 +12,15 @@
 @@||youtube.com^$important
 @@||gstatic.com^$important
 @@||www.gstatic.com^$important
-@@||s.youtube.com^$important
+@@||*.youtube.com^$important
 @@||dns-tunnel-check.googlezip.net^$important
 @@||*.*.goog^$important
 @@||csp.withgoogle.com^$important
 @@||play-lh.googleusercontent.com^$important
 @@||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 @@||music.youtube.com^$important
-##||s.youtube.com^$important
 @@||pay.google.com^$important
 @@||googleapis.com^$important
 @@||*.googleapis.com^$important
 @@||snssdk1233.onelink.me^$important
+@@ssl.google-analytics.com^$important
