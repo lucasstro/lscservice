@@ -24,3 +24,5 @@
 @@||*.googleapis.com^$important
 @@||snssdk1233.onelink.me^$important
 @@|ssl.google-analytics.com^$important
+@@||*.googlevideo.com^$important
+@@||*.googleusercontent.com^$important
