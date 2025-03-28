@@ -38,3 +38,4 @@
 @@||*.skype.com^$important
 @@||installer.teams.static.microsoft^$important
 @@||aka.ms^$important
+@@||*.windowsupdate.com^$important
