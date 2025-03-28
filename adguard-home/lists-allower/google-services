@@ -26,3 +26,4 @@
 @@|ssl.google-analytics.com^$important
 @@||*.googlevideo.com^$important
 @@||*.googleusercontent.com^$important
+@@||*.ggpht.com^$important
