@@ -12,6 +12,7 @@
 @@||*.tiktokv.*^$important
 @@||*^$client=127.0.0.1
 @@||*samsung*.*^$important
+@@||*.*samsung*.*^$important
 @@||*tp-link*.*^$important
 @@||*tplink*.*^$important
 @@||adguard-dns.io^$important
@@ -57,7 +58,6 @@
 @@||org^$important
 @@||preview.redd.it^$important
 @@||registry-1.docker.io^$importnat
-@@||samsung.com^$important
 @@||spclient.wg.spotify.com^$important
 @@||squarespace.com^$important
 @@||st.agrd.eu^$important
