@@ -7,6 +7,7 @@
 !
 @@||s.ss2.us^$important
 @@||amazon.com^$important^$important
+@@||*+amazon.com^$important
 @@||aws.amazon.com^$important^$important
 @@||a2z.com^$important
 @@||media-amazon.com^$important
@@ -14,6 +15,6 @@
 @@||amazontrust.com^$important
 @@||amazonwebservicesinc.tt.omtrdc.net^$important
 @@||prod.sip-edge.amc.amazon.dev^$important
-@@||api.amazonalexa.com^$important
+@@||*.amazonalexa.com^$important
 @@||api.us-east-1.aiv-delivery.net^$important
-@@||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^$important
+@@||*.amazonaws.com^$important
