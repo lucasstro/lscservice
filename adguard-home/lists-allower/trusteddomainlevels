@@ -6,7 +6,8 @@
 ! Last modified: 2025-03-28
 @@||*.docker.*^$important
 @@||*.duolingo.com^$important
-@@||*.reddit.*^$important
+@@||*.reddit.com^$important
+@@||*.redd.it^$important
 @@||*.smartthings.com^$important
 @@||*.tiktok.*^$important
 @@||*.tiktokv.*^$important
