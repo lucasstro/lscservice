@@ -20,3 +20,4 @@
 @@||*.amazonaws.com^$important
 @@||amazonvideo.com^$important
 @@||*.amplitude.com^$important
+@@||*.branch.io^$important
