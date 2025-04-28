@@ -19,3 +19,4 @@
 @@||api.us-east-1.aiv-delivery.net^$important
 @@||*.amazonaws.com^$important
 @@||amazonvideo.com^$important
+@@||*.amplitude.com^$important
