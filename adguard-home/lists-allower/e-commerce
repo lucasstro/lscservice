@@ -15,6 +15,7 @@
 @@||magazineluiza.com.br^$important
 @@||mercadolivre.com.br^$important
 @@||*.mercadolivre.com.br^$important
+@@||*.mercadolivre.*^$important
 @@||netshoes.com.br^$important
 @@||shein.com^$important
 @@||shopee.com.br^$important
