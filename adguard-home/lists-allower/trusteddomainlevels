@@ -109,3 +109,12 @@
 @@||track.convertmb.com^$important
 @@||ak.stikroltiltoowi.net^$important
 @@||qcc.qualcomm.com^$important
+@@||*.chatwoot.*^$important
+@@||*.ubuntu.*^$important
+@@||*.postgresql.*^$important
+@@||chatwoot.*^$important
+@@||ubuntu.*^$important
+@@||postgresql.*^$important
+@@||*.nodesource.com^$important
+@@||*.redis.io^$important
+
