@@ -5,7 +5,7 @@
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/trusteddomainlevels
 ! Last modified: 2025-03-28
 @@||*.docker.*^$important
-@@||*.duolingo.com^$important
+@@||*.duolingo.*^$important
 @@||*.reddit.com^$important
 @@||*.redd.it^$important
 @@||*.smartthings.com^$important
