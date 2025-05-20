@@ -7,8 +7,7 @@
 !
 @@||gvt*.com^$important
 @@||ogads-pa.clients6.google.com^$important
-@@||www.google.com^$important
-@@||*.google.com^$important
+@@||*.google.*^$important
 @@||youtube.com^$important
 @@||gstatic.com^$important
 @@||www.gstatic.com^$important
@@ -19,7 +18,6 @@
 @@||play-lh.googleusercontent.com^$important
 @@||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
 @@||music.youtube.com^$important
-@@||pay.google.com^$important
 @@||googleapis.com^$important
 @@||*.googleapis.com^$important
 @@||snssdk1233.onelink.me^$important
