@@ -117,4 +117,5 @@
 @@||postgresql.*^$important
 @@||*.nodesource.com^$important
 @@||*.redis.io^$important
+@@||br.search.yahoo.com^$important
 
