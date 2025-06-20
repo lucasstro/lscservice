@@ -16,9 +16,9 @@
 @@||logs.netflix.com^$importnat
 @@||events-api.soundcloud.com^$important
 @@||strongman-regional.api.smartthings.com^$important
-@@||*.ifood.*^$importnat
-@@||*.uber.*^$importnat
-@@||*.99pop.*^$importnat
+@@||*.ifood.*^$important
+@@||*.uber.*^$important
+@@||*.99pop.*^$important
 @@||use1-device-telemetry-gw.iot.i.tplinknbu.com^$important
 @@||*.ze.delivery^$important
 @@||*.99taxis.mobi^$important
