@@ -19,7 +19,7 @@
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
 @@||android.com^$important
-@@||android.com^$importnat
+@@||android.com^$important
 @@||apple.com^$important
 @@||asus.com^$important
 @@||auth.api.smartthings.com^$important
@@ -30,7 +30,7 @@
 @@||cloudfront.net^$important
 @@||cnpj.biz^$important
 @@||dell.com^$important
-@@||docker.io^$importnat
+@@||docker.io^$important
 @@||error-tracking.reddit.com^$important
 @@||external-preview.redd.it^$important
 @@||freeimage.host^$important
@@ -57,7 +57,7 @@
 @@||org.*^$important
 @@||org^$important
 @@||preview.redd.it^$important
-@@||registry-1.docker.io^$importnat
+@@||registry-1.docker.io^$important
 @@||spclient.wg.spotify.com^$important
 @@||squarespace.com^$important
 @@||st.agrd.eu^$important
@@ -70,7 +70,7 @@
 @@||usstaticd16wk0w6qs5f6d.cdn5th.com^$important
 @@||w3-reporting-nel.reddit.com^$important
 @@||w3-reporting.reddit.com^$important
-@@||www.4x4brasil.com.br^$importnat
+@@||www.4x4brasil.com.br^$important
 @@||www.armazemcentralbh.com^$important
 @@||www.reddit.com^$important
 @@||www.y2mate.com^$important
@@ -104,7 +104,7 @@
 @@||o57980.ingest.us.sentry.io^$important
 @@||sentry.io^$important
 @@||y2meta.is^$important
-@@||nya2.com^$important'
+@@||nya2.com^$important
 @@||u2ku.com^$important
 @@||track.convertmb.com^$important
 @@||ak.stikroltiltoowi.net^$important
