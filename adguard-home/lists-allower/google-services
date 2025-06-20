@@ -27,4 +27,5 @@
 @@||*.ggpht.com^$important
 @@||*.ytimg.com^$important
 @@||yt.be^$important
-@@||tpc.googlesyndication.com^$important
+@@||*.googlesyndication.com^$important
+@@||www.google-analytics.com^important
