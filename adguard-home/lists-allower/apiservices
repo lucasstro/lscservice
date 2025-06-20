@@ -34,3 +34,4 @@
 @@||*.ingest.sentry.io^$important
 @@||checkonline.home-assistant.io^$important
 @@||api.onesignal.com^$important
+@@||*.onelink.me^$important
