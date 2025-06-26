@@ -15,4 +15,4 @@ add list=META-SERVICES_LIST address=static.whatsapp.net comment=Auto_address_Lis
 add list=META-SERVICES_LIST address=v.whatsapp.net comment=Auto_address_List;
 add list=META-SERVICES_LIST address=whatsapp.com comment=Auto_address_List;
 add list=META-SERVICES_LIST address=web.whatsapp.com comment=Auto_address_List;
-add list=META-SERVICES_LIST address=exemple.com comment=Auto_address_List;
+add list=META-SERVICES_LIST address=example.com comment=example;
