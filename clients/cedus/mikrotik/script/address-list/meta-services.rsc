@@ -1,7 +1,6 @@
 /ip firewall address-list
 add list=META-SERVICES_LIST address=privatestats.whatsapp.net comment=Auto_address_List
 add list=META-SERVICES_LIST address=faq.whatsapp.com comment=Auto_address_List
-add list=META-SERVICES_LIST address=mmg.whatsapp.net comment=Auto_address_List
 add list=META-SERVICES_LIST address=media-gru1-1.cdn.whatsapp.net comment=Auto_address_List
 add list=META-SERVICES_LIST address=media-for1-1.cdn.whatsapp.net comment=Auto_address_List
 add list=META-SERVICES_LIST address=media-gru2-1.cdn.whatsapp.net comment=Auto_address_List
