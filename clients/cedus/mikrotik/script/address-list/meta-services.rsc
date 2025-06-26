@@ -15,3 +15,11 @@ add list=META-SERVICES_LIST address=static.whatsapp.net comment=Auto_address_Lis
 add list=META-SERVICES_LIST address=v.whatsapp.net comment=Auto_address_List;
 add list=META-SERVICES_LIST address=whatsapp.com comment=Auto_address_List;
 add list=META-SERVICES_LIST address=web.whatsapp.com comment=Auto_address_List;
+add list=META-SERVICES_LIST address=whatsapp.net comment=Auto_address_List;
+add list=META-SERVICES_LIST address=facebook.com comment=Auto_address_List;
+add list=META-SERVICES_LIST address=instagram.com comment=Auto_address_List;
+add list=META-SERVICES_LIST address=messenger.com comment=Auto_address_List;
+add list=META-SERVICES_LIST address=facebook.net comment=Auto_address_List;
+add list=META-SERVICES_LIST address=fb.com comment=Auto_address_List;
+add list=META-SERVICES_LIST address=wa.me comment=Auto_address_List;
+add list=META-SERVICES_LIST address=g.us comment=Auto_address_List;
