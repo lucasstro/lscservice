@@ -118,4 +118,6 @@
 @@||*.nodesource.com^$important
 @@||*.redis.io^$important
 @@||br.search.yahoo.com^$important
-
+@@||*.proxmox.*^$important
+@@||*.deb.org^$important
+@@||*.ubuntu.*^$important
