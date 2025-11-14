@@ -22,3 +22,5 @@
 @@||*.amplitude.com^$important
 @@||*.branch.io^$important
 @@||prod.us-east-1.sonar.prime-video.amazon.dev^$important
+@@||trace.prod.bugsnag.alexa-mobile.amazon.dev^$important
+@@||session.prod.bugsnag.alexa-mobile.amazon.dev^$important
