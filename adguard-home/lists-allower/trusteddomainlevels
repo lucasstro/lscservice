@@ -121,3 +121,7 @@
 @@||*.proxmox.*^$important
 @@||*.deb.org^$important
 @@||*.ubuntu.*^$important
+@@||secure.insightexpressai.com^$important
+@@||spade.twitch.tv^$important
+@@||i.imgur.com^$important
+@@||api.grumft.com^$important
