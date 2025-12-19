@@ -20,7 +20,9 @@
 @@||adguard.com^$important
 @@||android.com^$important
 @@||android.com^$important
-@@||apple.com^$important
+@@||*.apple.com^$important
+@@||icloud.com^$important
+@@||*.icloud.com^$important
 @@||asus.com^$important
 @@||auth.api.smartthings.com^$important
 @@||bitdefender.com^$important
