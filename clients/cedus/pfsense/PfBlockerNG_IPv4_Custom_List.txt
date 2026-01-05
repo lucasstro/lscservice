@@ -314,7 +314,7 @@
 201.48.0.0/16 # algar
 204.79.197.239 # mmq
 57.144.129.33 # facebook
-57.144.164.141 # facebook.com
+57.144.164.141 # facebook
 107.178.240.159 # docusign
 162.248.184.28 # docusign
 51.255.94.162 # livehelperchat
