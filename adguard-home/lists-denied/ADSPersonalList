@@ -8,3 +8,9 @@
 ! Source name: Chat room
 ! Source: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/ADSPersonalList
 !
+/ads/
+||ff.garena.com
+||roblox.com
+||cdn.flashtalking.com
+||cdn.browsiprod.com
+||staticassets-creator-design.criteo.net
