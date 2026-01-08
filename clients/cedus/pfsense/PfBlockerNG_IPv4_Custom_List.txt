@@ -219,7 +219,9 @@
 57.67.40.20 # philips
 57.73.36.68 # telecom
 57.144.128.3 # whatsapp
+57.144.128.1 # facebook
 57.144.129.32 # whatsapp
+31.13.85.36 # facebook
 57.144.165.32 # whatsapp
 57.144.165.33 # whatsapp
 62.72.55.24 # mrimaster
