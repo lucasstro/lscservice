@@ -35,3 +35,4 @@
 @@||api.onesignal.com^$important
 @@||*.onelink.me^$important
 @@||api.franciscajoias.com.br^$important
+@@/.*api.*/$important
