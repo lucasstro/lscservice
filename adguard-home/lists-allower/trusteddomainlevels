@@ -36,8 +36,6 @@
 @@||error-tracking.reddit.com^$important
 @@||external-preview.redd.it^$important
 @@||freeimage.host^$important
-@@||g.api.mega.co.nz^$important
-@@||gn-flagpoles.api.bbci.co.uk^$important
 @@||gov.*^$important
 @@||gov^$important
 @@||hp.com^$important
@@ -91,7 +89,6 @@
 @@||track.convertmb.com^$important
 @@||ak.stikroltiltoowi.net^$important
 @@||sdk.iad-05.braze.com^$important
-@@||api.club.zedelivery.in^$important
 @@||prod2-live-chat.sprinklr.com^$important
 @@||report.c1101.gbqofs.io^$important
 @@||verify.uxcam.com^$important
@@ -126,7 +123,6 @@
 @@||secure.insightexpressai.com^$important
 @@||spade.twitch.tv^$important
 @@||i.imgur.com^$important
-@@||api.grumft.com^$important
 @@||video-edge-a583aa.sjc05.hls.live-video.net^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.android.com^$important
@@ -141,3 +137,5 @@
 @@||detectportal.firefox.com^$important
 @@||www.webex.com^$important
 @@||token.safebrowsing.apple^$important
+@@||*.chatgpt.com^$important
+
