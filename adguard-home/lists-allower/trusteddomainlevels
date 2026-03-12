@@ -137,7 +137,6 @@
 @@||avsxappcaptiveportal.com^$important
 @@||b.root-servers.net^$important
 @@||nav-edge.smartscreen.microsoft.com^$important
-@@/.*api.*/$important
 @@||http.microsoft.com^$important
 @@||detectportal.firefox.com^$important
 @@||www.webex.com^$important
