@@ -1,46 +1,29 @@
-!
 ! Title: Trusted Domain Levels
-! Description: Governament and nom governament domains
-! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/trusteddomainlevels
-! Last modified: 2025-03-28
-@@||*.docker.*^$important
-@@||*.duolingo.*^$important
-@@||*.reddit.com^$important
-@@||*.redd.it^$important
-@@||*.smartthings.com^$important
-@@||*.tiktok.*^$important
-@@||*.tiktokv.*^$important
+! Description: Government and non-government domains
+! Version: 1.1
+! Last modified: 2026-03-13
+
+! --- Exceção para Localhost ---
 @@||*^$client=127.0.0.1
-@@||*samsung*.*^$important
-@@||*.*samsung*.*^$important
-@@||*tp-link*.*^$important
-@@||*tplink*.*^$important
+
+! --- Domínios e Subdomínios (Otimizados) ---
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
 @@||android.com^$important
-@@||android.com^$important
-@@||*.apple.com^$important
-@@||icloud.com^$important
-@@||*.icloud.com^$important
+@@||apple.com^$important
 @@||asus.com^$important
-@@||auth.api.smartthings.com^$important
 @@||bitdefender.com^$important
-@@||cdn-0.nflximg.com^$important
-@@||cdn-stv.adgrx.com^$important
 @@||cloudflare.com^$important
 @@||cloudfront.net^$important
 @@||cnpj.biz^$important
 @@||dell.com^$important
 @@||docker.io^$important
-@@||error-tracking.reddit.com^$important
-@@||external-preview.redd.it^$important
+@@||duolingo.*^$important
 @@||freeimage.host^$important
-@@||gov.*^$important
-@@||gov^$important
+@@||globo.com^$important
 @@||hp.com^$important
-@@||i.redd.it^$important
 @@||ichef.bbci.co.uk^$important
+@@||icloud.com^$important
 @@||iili.io^$important
 @@||lscservice.net^$important
 @@||m2appinsight.com^$important
@@ -52,35 +35,33 @@
 @@||mt.lv^$important
 @@||mybbc-analytics.files.bbci.co.uk^$important
 @@||netflix.com^$important
+@@||nflximg.com^$important
+@@||nodesource.com^$important
 @@||nvidia.com^$important
-@@||open-local.spotify.com^$important
-@@||org.*^$important
-@@||org^$important
-@@||preview.redd.it^$important
-@@||registry-1.docker.io^$important
-@@||spclient.wg.spotify.com^$important
+@@||postgresql.*^$important
+@@||proxmox.*^$important
+@@||deb.org^$important
+@@||redd.it^$important
+@@||reddit.com^$important
+@@||redis.io^$important
+@@||smartthings.com^$important
 @@||squarespace.com^$important
 @@||st.agrd.eu^$important
 @@||static.doubleclick.net^$important
 @@||static.files.bbci.co.uk^$important
 @@||theorangesite.store^$important
+@@||tiktok.*^$important
+@@||tiktokv.*^$important
 @@||tp-link.com^$important
 @@||tvx.adgrx.com^$important
+@@||ubuntu.*^$important
 @@||umidigi.com^$important
 @@||usstaticd16wk0w6qs5f6d.cdn5th.com^$important
-@@||w3-reporting-nel.reddit.com^$important
-@@||w3-reporting.reddit.com^$important
-@@||www.4x4brasil.com.br^$important
-@@||www.armazemcentralbh.com^$important
-@@||www.reddit.com^$important
-@@||www.y2mate.com^$important
-@@||*.netflix.com^$important
-@@||*.nflximg.com^$important
+@@||4x4brasil.com.br^$important
+@@||armazemcentralbh.com^$important
+@@||y2mate.com^$important
 @@||rtb.adgrx.com^$important
 @@||licensing.bitmovin.com^$important
-@@||*.globo.com^$important
-@@||lscservice.net^$important
-@@||*.lscservice.net^$important
 @@||mxa.mailgun.org^$important
 @@||analytics-ingress-global.bitmovin.com^$important
 @@||y2meta.is^$important
@@ -102,39 +83,46 @@
 @@||bf99293tkn.bf.dynatrace.com^$important
 @@||o57980.ingest.us.sentry.io^$important
 @@||sentry.io^$important
-@@||y2meta.is^$important
-@@||nya2.com^$important
-@@||u2ku.com^$important
-@@||track.convertmb.com^$important
-@@||ak.stikroltiltoowi.net^$important
 @@||qcc.qualcomm.com^$important
-@@||*.chatwoot.*^$important
-@@||*.ubuntu.*^$important
-@@||*.postgresql.*^$important
 @@||chatwoot.*^$important
-@@||ubuntu.*^$important
-@@||postgresql.*^$important
-@@||*.nodesource.com^$important
-@@||*.redis.io^$important
 @@||br.search.yahoo.com^$important
-@@||*.proxmox.*^$important
-@@||*.deb.org^$important
-@@||*.ubuntu.*^$important
 @@||secure.insightexpressai.com^$important
 @@||spade.twitch.tv^$important
 @@||i.imgur.com^$important
 @@||video-edge-a583aa.sjc05.hls.live-video.net^$important
+
+! --- Domínios Genéricos (Gov / Org / Google User Content) ---
+@@||gov^$important
+@@||gov.*^$important
+@@||org^$important
+@@||org.*^$important
+@@||googleusercontent.com^$important
+
+! --- Testes de Conectividade e Captive Portals ---
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.android.com^$important
 @@||clients3.google.com^$important
 @@||captive.apple.com^$important
-@@||www.msftconnecttest.com^$important
-@@||www.msftncsi.com^$important
+@@||msftconnecttest.com^$important
+@@||msftncsi.com^$important
 @@||avsxappcaptiveportal.com^$important
 @@||b.root-servers.net^$important
 @@||nav-edge.smartscreen.microsoft.com^$important
 @@||http.microsoft.com^$important
 @@||detectportal.firefox.com^$important
-@@||www.webex.com^$important
+@@||webex.com^$important
 @@||token.safebrowsing.apple^$important
-@@/.*chatgpt.*/$important
+
+! --- Padrões Flexíveis (Marcas) ---
+@@||docker.*^$important
+@@||*samsung*.*^$important
+@@||*tp-link*.*^$important
+@@||*tplink*.*^$important
+
+! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
+@@||*cdn*^$important
+@@||*chatgpt*^$important
+@@||*ai*^$important
+@@||*data*^$important
+@@||*app*^$important
+@@||*cloudflare*^$important
