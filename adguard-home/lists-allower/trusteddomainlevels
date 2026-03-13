@@ -137,5 +137,4 @@
 @@||detectportal.firefox.com^$important
 @@||www.webex.com^$important
 @@||token.safebrowsing.apple^$important
-@@||*.chatgpt.com^$important
-
+@@/.*chatgpt.*/$important
