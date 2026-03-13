@@ -1,32 +1,29 @@
-!
 ! Title: Untrust
 ! Description: Untrust TLD
-! Version: 5
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-denied/untrusteddomainlevels
-! Last modified: 2025-02-12
+! Version: 5.1
+! Last modified: 2026-03-13
 !
+! --- Bloqueio Global com Exceções de TLDs Confiáveis ---
 *$denyallow=com|net|br|io|pt|org|tv|be|ai|app|goog|gov|banco|co|edu|wiki|info|community|forum|arpa|bradesco|itau|inter|ms|amazon|globo|santander|seg|tec|me|store|art|tur|one|xyz|fm|rádio|dev|gle|drive|android|gmail|chrome|play|page|site|new|zip|ly|us
+
+! --- Bloqueios por Palavras-chave (Expressões Regulares) ---
 /baidu/
 /hao123/
-/googlesyndication/
-/googleadservices/
-/googletagmanager/
-/*hotjar*/
-/*banner*/
-/*lead*/
-/*ads*/
-/adserv*/
-/'felipe neto'/
+/hotjar/
+/banner/
+/lead/
+/ads/
+/adserv/
 /felipeneto/
-||www.googleadservices.com^
 /sstatic/
+/analytics/
+
+! --- Bloqueios de Domínios Específicos (Estilo Adblock) ---
+||googlesyndication.com^
+||googleadservices.com^
 ||adservice.google.com^
 ||ads.youtube.com^
-||tpc.googlesyndication.com^
-||*.safeframe.googlesyndication.com^
 ||analytics.google.com^
-/*analytics*/
 ||ads.google.com^
 ||push.bitdefender.net^
 ||play9.com.br^
-||*.googlesyndication.com^
