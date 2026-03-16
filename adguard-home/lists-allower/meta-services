@@ -1,25 +1,21 @@
 !
 ! Title: Meta Services
 ! Description: Meta Services allower DNS List
-! Version: 1
+! Version: 2
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/list-allower/meta-services
-! Last modified: 2025-01-28
+! Last modified: 2026-03-16
 !
-@@||whatsapp.com^$important
-@@||whatsapp.net^$important
-@@||facebook.com^$important
-@@||instagram.com^$important
+
+! --- Libera qualquer domínio/subdomínio que contenha os termos abaixo ---
+@@*whatsapp*$important
+@@*facebook*$important
+@@*instagram*$important
+@@*fbcdn*$important
+
+! --- Outros domínios Meta (que não contêm os termos acima explicitamente) ---
 @@||messenger.com^$important
-@@||*.messenger.com^$important
-@@||*.instagram.com^$important
-@@||*.fbpigeon.com^$important
-@@||*.facebook.com^$important
-@@||*.whatsapp.net^$important
-@@||*.whatsapp.com^$important
-@@||*.facebook.net^$important
-@@||facebook.net^$important
+@@||fbpigeon.com^$important
 @@||fb.com^$important
-@@||*.fb.com^$important
 @@||wa.me^$important
 @@||g.us^$important
 @@||w.meta.me^$important
