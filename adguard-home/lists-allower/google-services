@@ -1,32 +1,30 @@
 !
 ! Title: Google Allower
 ! Description: Google services DNS List
-! Version: 1
+! Version: 2
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/list-allower/google-services
-! Last modified: 2024-12-12
+! Last modified: 2026-03-16
 !
-@@||gvt*.com^$important
-@@||ogads-pa.clients6.google.com^$important
-@@||*.google.*^$important
-@@||youtube.com^$important
-@@||gstatic.com^$important
-@@||www.gstatic.com^$important
-@@||*.youtube.com^$important
-@@||dns-tunnel-check.googlezip.net^$important
-@@||*.*.goog^$important
-@@||csp.withgoogle.com^$important
-@@||play-lh.googleusercontent.com^$important
-@@||prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
-@@||music.youtube.com^$important
+
+! --- Domínios Principais e APIs do Google ---
+@@||google.com^$important
 @@||googleapis.com^$important
-@@||*.googleapis.com^$important
-@@||snssdk1233.onelink.me^$important
-@@|ssl.google-analytics.com^$important
-@@||*.googlevideo.com^$important
-@@||*.googleusercontent.com^$important
-@@||*.ggpht.com^$important
-@@||*.ytimg.com^$important
+@@||gstatic.com^$important
+@@||googleusercontent.com^$important
+@@||googlevideo.com^$important
+@@||withgoogle.com^$important
+@@||googlezip.net^$important
+@@||goog^$important
+@@||gvt*.com^$important
+
+! --- YouTube ---
+@@||youtube.com^$important
+@@||ytimg.com^$important
+@@||ggpht.com^$important
 @@||yt.be^$important
-@@||*.googlesyndication.com^$important
-@@||www.google-analytics.com^important
-@@||ad.doubleclick.net^important
+
+! --- Anúncios, Rastreadores e Analytics (Google) ---
+@@||google-analytics.com^$important
+@@||googletagmanager.com^$important
+@@||googlesyndication.com^$important
+@@||doubleclick.net^$important
