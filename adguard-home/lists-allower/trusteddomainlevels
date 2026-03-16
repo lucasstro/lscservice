@@ -101,6 +101,7 @@
 ! --- Testes de Conectividade e Captive Portals ---
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.android.com^$important
+@@||connectivitycheck.unisoc.com^$important
 @@||clients3.google.com^$important
 @@||captive.apple.com^$important
 @@||msftconnecttest.com^$important
