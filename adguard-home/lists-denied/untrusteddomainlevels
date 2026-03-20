@@ -18,6 +18,7 @@
 /sstatic/
 /analytics/
 /telemetry/
+/taboola/
 
 ! --- Bloqueios de Domínios Específicos (Estilo Adblock) ---
 ||googlesyndication.com^
