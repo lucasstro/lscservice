@@ -9,7 +9,6 @@
 ! --- Domínios e Subdomínios (Otimizados) ---
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
-@@||android.com^$important
 @@||bitdefender.com^$important
 @@||dell.com^$important
 @@||docker.io^$important
@@ -115,6 +114,7 @@
 @@||*oppo*.*^$important
 @@||*miui*.*^$important
 @@||*mediatek*.*^$important
+@@||*android*.*^$important
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
@@ -129,6 +129,7 @@
 @@||*push*^$important
 @@||*safe*^$important
 @@||*auth*^$important
+@@||*login*^$important
 @@||*captive*^$important
 @@||*captcha*^$important
 @@||*gateway*^$important
