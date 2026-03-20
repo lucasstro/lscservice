@@ -119,11 +119,7 @@
 @@||*samsung*.*^$important
 @@||*tp-link*.*^$important
 @@||*tplink*.*^$important
-@@||*security*.*^$important
-@@||*service*.*^$important
-@@||*notification*.*^$important
-@@||*push*.*^$important
-@@||*safe*.*^$important
+
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
@@ -132,3 +128,12 @@
 @@||*data*^$important
 @@||*app*^$important
 @@||*cloudflare*^$important
+
+@@||*security*^$important
+@@||*service*^$important
+@@||*notification*^$important
+@@||*push*^$important
+@@||*safe*^$important
+@@||*auth*^$important
+@@||*captive*^$important
+@@||*captcha*^$important
