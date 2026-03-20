@@ -119,6 +119,7 @@
 @@||*samsung*.*^$important
 @@||*tp-link*.*^$important
 @@||*tplink*.*^$important
+@@||*adobe*.*^$important
 
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
@@ -128,7 +129,6 @@
 @@||*data*^$important
 @@||*app*^$important
 @@||*cloudflare*^$important
-
 @@||*security*^$important
 @@||*service*^$important
 @@||*notif*^$important
