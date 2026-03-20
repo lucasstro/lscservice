@@ -44,7 +44,6 @@
 @@||bancobmg.tt.omtrdc.net^$important
 @@||bancobmgsa.data.adobedc.net^$important
 @@/.*banco.*/$important
-@@||*mercadolibre*^$important
 @@||*mercadopago*^$important
 @@||*meli*^$important
 @@||*picpay*^$important
