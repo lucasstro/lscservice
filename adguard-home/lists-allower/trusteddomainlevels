@@ -10,14 +10,9 @@
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
 @@||android.com^$important
-@@||asus.com^$important
 @@||bitdefender.com^$important
-@@||cloudflare.com^$important
-@@||cloudfront.net^$important
-@@||cnpj.biz^$important
 @@||dell.com^$important
 @@||docker.io^$important
-@@||duolingo.*^$important
 @@||freeimage.host^$important
 @@||globo.com^$important
 @@||hp.com^$important
@@ -53,8 +48,6 @@
 @@||tp-link.com^$important
 @@||tvx.adgrx.com^$important
 @@||ubuntu.*^$important
-@@||umidigi.com^$important
-@@||usstaticd16wk0w6qs5f6d.cdn5th.com^$important
 @@||4x4brasil.com.br^$important
 @@||armazemcentralbh.com^$important
 @@||y2mate.com^$important
@@ -89,12 +82,11 @@
 @@||i.imgur.com^$important
 @@||video-edge-a583aa.sjc05.hls.live-video.net^$important
 
-! --- Domínios Genéricos (Gov / Org / Google User Content) ---
-@@||gov^$important
-@@||gov.*^$important
-@@||org^$important
-@@||org.*^$important
-@@||googleusercontent.com^$important
+! --- Domínios Governamentais (Seguros) ---
+@@*.gov.br*$important
+@@*.jus.br*$important
+@@*.gov*$important
+@@||cnpj.biz^$important
 
 ! --- Testes de Conectividade e Captive Portals ---
 @@||connectivitycheck.gstatic.com^$important
@@ -142,3 +134,4 @@
 @@||*captcha*^$important
 @@||*gateway*^$important
 @@||*cloud*^$important
+@@||*chat*^$important
