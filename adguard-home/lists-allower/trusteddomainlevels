@@ -119,6 +119,8 @@
 @@||*samsung*.*^$important
 @@||*tp-link*.*^$important
 @@||*tplink*.*^$important
+@@||*security*.*^$important
+@@||*service*+*^$important
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
