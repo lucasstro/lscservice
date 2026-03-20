@@ -45,7 +45,7 @@
 @@||bancobmgsa.data.adobedc.net^$important
 @@/.*banco.*/$important
 @@||*mercadolibre*^$important
-@@||*mercadolibre*^$important
+@@||*mercadopago*^$important
 @@||*meli*^$important
 @@||*picpay*^$important
 
