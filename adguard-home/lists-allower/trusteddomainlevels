@@ -87,14 +87,13 @@
 @@||cnpj.biz^$important
 
 ! --- Testes de Conectividade e Captive Portals ---
+@@||*captive*^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.android.com^$important
 @@||connectivitycheck.unisoc.com^$important
 @@||clients3.google.com^$important
-@@||captive.apple.com^$important
 @@||msftconnecttest.com^$important
 @@||msftncsi.com^$important
-@@||avsxappcaptiveportal.com^$important
 @@||b.root-servers.net^$important
 @@||nav-edge.smartscreen.microsoft.com^$important
 @@||http.microsoft.com^$important
@@ -130,7 +129,6 @@
 @@||*safe*^$important
 @@||*auth*^$important
 @@||*login*^$important
-@@||*captive*^$important
 @@||*captcha*^$important
 @@||*gateway*^$important
 @@||*cloud*^$important
