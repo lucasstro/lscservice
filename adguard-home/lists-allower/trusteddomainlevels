@@ -22,7 +22,6 @@
 @@||globo.com^$important
 @@||hp.com^$important
 @@||ichef.bbci.co.uk^$important
-@@||icloud.com^$important
 @@||iili.io^$important
 @@||lscservice.net^$important
 @@||m2appinsight.com^$important
@@ -140,3 +139,4 @@
 @@||*captive*^$important
 @@||*captcha*^$important
 @@||*gateway*^$important
+@@||*cloud*^$important
