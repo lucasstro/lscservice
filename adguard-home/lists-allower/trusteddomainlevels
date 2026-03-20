@@ -99,7 +99,6 @@
 @@||http.microsoft.com^$important
 @@||detectportal.firefox.com^$important
 @@||webex.com^$important
-@@||token.safebrowsing.apple^$important
 
 ! --- Padrões Flexíveis (Marcas) ---
 @@||docker.*^$important
