@@ -120,7 +120,9 @@
 @@||*tp-link*.*^$important
 @@||*tplink*.*^$important
 @@||*security*.*^$important
-@@||*service*+*^$important
+@@||*service*.*^$important
+@@||*notification*.*^$important
+@@||*push*.*^$important
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
