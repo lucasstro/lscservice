@@ -10,7 +10,6 @@
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
 @@||android.com^$important
-@@||apple.com^$important
 @@||asus.com^$important
 @@||bitdefender.com^$important
 @@||cloudflare.com^$important
@@ -120,7 +119,10 @@
 @@||*tp-link*.*^$important
 @@||*tplink*.*^$important
 @@||*adobe*.*^$important
-
+@@||*apple*.*^$important
+@@||*xiaomi*.*^$important
+@@||*motorola*.*^$important
+@@||*oppo*.*^$important
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
