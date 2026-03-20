@@ -123,6 +123,7 @@
 @@||*motorola*.*^$important
 @@||*oppo*.*^$important
 @@||*miui*.*^$important
+@@||*mediatek*.*^$important
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
