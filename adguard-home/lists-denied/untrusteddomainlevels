@@ -23,6 +23,7 @@
 ! --- Bloqueios de Domínios Específicos (Estilo Adblock) ---
 ||googlesyndication.com^
 ||googleadservices.com^
+||googleads.g.doubleclick.net^
 ||adservice.google.com^
 ||ads.youtube.com^
 ||analytics.google.com^
