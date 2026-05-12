@@ -268,3 +268,7 @@
 57.144.66.8 # whatsapp
 194.221.250.50 # Vodaphone
 2.20.129.185 # Akamai
+149.154.175.50 # Telegram
+2.18.127.77 # akamai
+2.18.127.79 # akamai
+157.240.226.61 # whatsapp
