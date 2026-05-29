@@ -36,3 +36,4 @@
 @@||*.onelink.me^$important
 @@||api.franciscajoias.com.br^$important
 @@/.*api.*/$important
+@@||excess.duolingo.com^$important
