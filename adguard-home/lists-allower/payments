@@ -46,4 +46,4 @@
 @@/.*banco.*/$important
 @@||*mercadopago*^$important
 @@||*picpay*^$important
-
+@@||smart-checkout.bemobi.com^$important
