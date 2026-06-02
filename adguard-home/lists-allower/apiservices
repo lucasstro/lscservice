@@ -1,40 +1,56 @@
 !
-! Title: API Services
-! Description: API, APP services.
-! Version: 2
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/appservices
+! Title: API and App Services
+! Description: API and APP services for proper application functionality
+! Version: 3
 ! Last modified: 2026-06-02
 !
-@@||api.segment.io^$important
+! --- Telemetria, Crashlytics e SDKs (Essencial para Apps Mobile) ---
 @@||app-measurement.com^$important
-@@||casasbahia1.api.useinsider.com^$important
-@@||census-app.scorecardresearch.com^$important
-@@||mask-api.icloud.com^$important
-@@||samsungseda.api.useinsider.com^$important
-@@||us-east-1.prod.service.minerva.devices.a2z.com^$important
-@@||nexus-websocket-a.intercom.io^$important
-@@||logs.netflix.com^$important
-@@||events-api.soundcloud.com^$important
-@@||strongman-regional.api.smartthings.com^$important
-@@||ifood.*^$important
-@@||uber.*^$important
-@@||99pop.*^$important
-@@||use1-device-telemetry-gw.iot.i.tplinknbu.com^$important
-@@||ze.delivery^$important
-@@||99taxis.mobi^$important
-@@||api.met.no^$important
-@@||api.fstr.rocks^$important
-@@||api2.amplitude.com^$important
-@@||api.lab.amplitude.com^$important
-@@||globo.com^$important
-@@||meli.com^$important
-@@||mercadoclics.com^$important
-@@||si4hi6znzac4ytrny-mercadolibre.siteintercept.qualtrics.com^$important
-@@||ingest.sentry.io^$important
-@@||checkonline.home-assistant.io^$important
-@@||api.onesignal.com^$important
+@@||firebaseio.com^$important
+@@||crashlytics.com^$important
+@@||googleapis.com^$important
+@@||onesignal.com^$important
+@@||segment.io^$important
+@@||amplitude.com^$important
+@@||useinsider.com^$important
+@@||sentry.io^$important
 @@||onelink.me^$important
-@@||api.franciscajoias.com.br^$important
-@@/.*api.*/$important
-@@/.*duolingo.*/$important
-@@||scs-config-use2.bixbyllm.com^$important
+@@||scorecardresearch.com^$important
+@@||intercom.io^$important
+@@||qualtrics.com^$important
+!
+! --- Mobilidade e Delivery (Transport and Food Delivery) ---
+@@||ifood.com.br^$important
+@@||uber.com^$important
+@@||99app.com^$important
+@@||99taxis.mobi^$important
+@@||99pop.com.br^$important
+@@||ze.delivery^$important
+@@||rappi.com.br^$important
+@@||rappi.com^$important
+!
+! --- Casa Inteligente e IoT (Smart Home and Internet of Things) ---
+@@||home-assistant.io^$important
+@@||ui.nabu.casa^$important
+@@||smartthings.com^$important
+@@||tplinknbu.com^$important
+@@||tplinkcloud.com^$important
+@@||api.met.no^$important
+!
+! --- Infraestrutura, Virtualizacao e IA (Infrastructure, Virtualization and AI) ---
+@@||docker.io^$important
+@@||docker.com^$important
+@@||proxmox.com^$important
+@@||cloudflare.com^$important
+@@||github.com^$important
+@@||githubusercontent.com^$important
+@@||huggingface.co^$important
+@@||api.fstr.rocks^$important
+!
+! --- Streaming e Midia (Streaming and Media) ---
+@@||netflix.com^$important
+@@||soundcloud.com^$important
+!
+! --- Educacao e Outros (Education and Others) ---
+@@||duolingo.com^$important
+@@||globo.com^$important
