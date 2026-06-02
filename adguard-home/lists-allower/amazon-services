@@ -1,27 +1,29 @@
 !
-! Title: amazon Services
-! Description: Meta Services allower DNS List
-! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/amazon-services
-! Last modified: 2025-02-05
+! Title: Amazon and AWS Services
+! Description: Lista de permissoes para servicos Amazon e AWS
+! Version: 2
+! Last modified: 2026-06-02
 !
-@@||s.ss2.us^$important
-@@||amazon.com^$important^$important
-@@||*amazon.com^$important
-@@||aws.amazon.com^$important^$important
+! --- Amazon Core e AWS ---
+@@||amazon.com^$important
+@@||aws.amazon.com^$important
+@@||amazonaws.com^$important
 @@||a2z.com^$important
+@@||amazontrust.com^$important
+@@||cloudfront.net^$important
+@@||awsstatic.com^$important
+!
+! --- Midia, Prime Video e Imagens ---
 @@||media-amazon.com^$important
 @@||ssl-images-amazon.com^$important
-@@||amazontrust.com^$important
-@@||amazonwebservicesinc.tt.omtrdc.net^$important
-@@||prod.sip-edge.amc.amazon.dev^$important
-@@||*.amazonalexa.com^$important
-@@||api.us-east-1.aiv-delivery.net^$important
-@@||*.amazonaws.com^$important
 @@||amazonvideo.com^$important
-@@||*.amplitude.com^$important
-@@||*.branch.io^$important
-@@||prod.us-east-1.sonar.prime-video.amazon.dev^$important
-@@||trace.prod.bugsnag.alexa-mobile.amazon.dev^$important
-@@||session.prod.bugsnag.alexa-mobile.amazon.dev^$important
-@@||event.bugsnag.kindle.amazon.dev^$important
+@@||primevideo.com^$important
+@@||aiv-delivery.net^$important
+!
+! --- Dispositivos, Alexa e Telemetria ---
+@@||amazonalexa.com^$important
+@@||amazon.dev^$important
+@@||amazonwebservicesinc.tt.omtrdc.net^$important
+@@||amplitude.com^$important
+@@||branch.io^$important
+@@||s.ss2.us^$important
