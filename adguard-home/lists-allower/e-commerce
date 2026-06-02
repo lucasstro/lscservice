@@ -1,10 +1,10 @@
 !
 ! Title: e-commerce
 ! Description: e-commerce domains
-! Version: 1
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/e-commerce
-! Last modified: 2024-12-13
+! Version: 2
+! Last modified: 2026-06-02
 !
+! --- Varejo Geral e Marketplaces ---
 @@||aliexpress.com^$important
 @@||amazon.com.br^$important
 @@||americanas.com.br^$important
@@ -13,28 +13,43 @@
 @@||enjoei.com.br^$important
 @@||extra.com.br^$important
 @@||magazineluiza.com.br^$important
-@@||mercadolivre.com.br^$important
-@@||*.mercadolivre.com.br^$important
-@@||*.mercadolivre.*^$important
 @@||netshoes.com.br^$important
-@@||shein.com^$important
-@@||shopee.com.br^$important
-@@||submarino.com.br^$important
-@@||temubrasil.com^$important
-@@||shoppingoiapoque.com.br^$important
 @@||olx.com.br^$important
+@@||shein.com^$important
+@@||shopee.com^$important
+@@||shopee.com.br^$important
+@@||shoppingoiapoque.com.br^$important
+@@||submarino.com.br^$important
+@@||temu.com^$important
+@@||temubrasil.com^$important
+!
+! --- Ecossistema Mercado Livre ---
+@@||mercadolivre.com.br^$important
+@@||mercadolibre.com^$important
+@@||mercadolibre.com.ar^$important
+@@||mercadopago.com^$important
+@@||mercadopago.com.br^$important
+@@||mercadoclics.com^$important
+@@||mlstatic.com^$important
+@@||meli.com^$important
+!
+! --- Hardware e Tecnologia ---
+@@||kabum.com.br^$important
+@@||pichau.com.br^$important
+@@||terabyteshop.com.br^$important
+!
+! --- Eletrodomesticos e Pecas ---
 @@||electrolux.com.br^$important
-@@||print1.mercadoclics.com^$important
-@@||*.shopee.com^$important
-@@||mobile.mercadolibre.com.ar^$important
-@@||umlazada.alibaba.com^$important
-@@||adashx4ae.ut.taobao.com^$important
-@@||audid-api.taobao.com^$important
-@@||kabum.onelink.me^$important
+@@||venax.com.br^$important
+@@||brastemp.com.br^$important
+@@||consul.com.br^$important
+!
+! --- Automotivo ---
+@@||japanmotors.com.br^$important
+@@||pneustore.com.br^$important
+!
+! --- Infraestrutura de Backend e Analytics ---
+@@||alibaba.com^$important
+@@||taobao.com^$important
+@@||srmdata.com^$important
 @@||uploaddeimagens.com.br^$important
-@@||events.mercadolibre.com^$important
-@@||analytics.mercadolivre.com^$important
-@@||*.srmdata.com^$important
-@@||*shopee*^$important
-@@||*mercadolibre*^$important
-@@||*meli*^$important
