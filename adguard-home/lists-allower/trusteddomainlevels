@@ -143,3 +143,18 @@
 @@||22gfvcb8.r.us-east-1.awstrack.me^$important
 @@||services.vipcommerce.com.br^$important
 @@||access3.solarmanpv.com^$important
+!
+! --- Infraestrutura de Rede e DNS Resolvers ---
+! (Essencial para tracert, ping e logs locais)
+@@||in-addr.arpa^$important
+@@||dns.google^$important
+@@||one.one.one.one^$important
+@@||ipinfo.io^$important
+@@||carriersignal.info^$important
+
+! --- Segurança, Antivírus e Validação de Identidade ---
+@@||kaspersky-labs.com^$important
+@@||kaspersky.com^$important
+@@||mcafee.com^$important
+@@||norton.com^$important
+@@||avast.com^$important
