@@ -28,7 +28,6 @@
 @@||ze.delivery^$important
 @@||rappi.com.br^$important
 @@||rappi.com^$important
-@@||api.didiglobal.com^$important
 !
 ! --- Casa Inteligente e IoT (Smart Home and Internet of Things) ---
 @@||home-assistant.io^$important
@@ -52,6 +51,29 @@
 @@||netflix.com^$important
 @@||soundcloud.com^$important
 !
-! --- Educacao e Outros (Education and Others) ---
+! --- Educação e Plataformas de Emprego ---
 @@||duolingo.com^$important
-@@||globo.com^$important
+@@||anhanguera.com^$important
+@@||empregare.com^$important
+@@||enlizt.me^$important
+@@||solides.com^$important
+@@||myworkdayjobs.com^$important
+!
+! --- Aplicativos de Serviços e Utilidades ---
+@@||gympass.com^$important
+@@||citta-mobi.com^$important
+@@||didiglobal.com^$important
+@@||365scores.com^$important
+@@||handtalk.me^$important
+@@||luma.com^$important
+@@||me-qr.com^$important
+@@||universal-assistance.com^$important
+!
+! --- Streaming, Mídia e CDNs Globais ---
+@@||nflxso.net^$important
+@@||nflximg.net^$important
+@@||deezer.com^$important
+@@||sc-static.net^$important
+@@||fastly-edge.com^$important
+@@||aaplimg.com^$important
+@@||4shared.com^$important
