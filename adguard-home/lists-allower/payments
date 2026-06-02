@@ -1,49 +1,98 @@
 !
-! Title: Payments
-! Description: Bank and payments DNS List
-! Version: 2
-! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/payments
-! Last modified: 2024-12-13
+! Title: Payments, Banks and Acquirers
+! Description: Lista completa de permissoes para sistemas financeiros, pagamentos e adquirentes
+! Version: 4
+! Last modified: 2026-06-02
 !
+! --- Top-Level Domains (TLDs) Bancarios ---
 @@||banco^$important
-@@||bancomercantil.com.br^$important
-@@||bb.banco^$important
+@@||bradesco^$important
+!
+! --- Bancos Nacionais (Brasil) ---
 @@||bb.com.br^$important
-@@||bradesco.banco^$important
+@@||bancodobrasil.com.br^$important
 @@||bradesco.com.br^$important
-@@||*.bradesco^$important
-@@||.banco^$important
-@@||bradesco.us-4.evergage.com^$important
-@@||caixa.com.br^$important
 @@||caixa.gov.br^$important
 @@||cef.gov.br^$important
-@@||inter.banco^$important
-@@||inter.co^$important
-@@||itau.banco^$important
 @@||itau.com.br^$important
-@@||iti.banco^$important
-@@||iti.com.br^$important
-@@||mercadopago.com.br^$important
-@@||next.me^$important
-@@||pagseguro.uol.com.br^$important
-@@||paypal.com^$important
-@@||picpay.com.br^$important
-@@||safra.com.br^$important
-@@||sodexobeneficios.com.br^$important
-@@||*.collect.igodigital.com^$important
-@@||us1.wzrkt.com^$important
-@@||*.split.io^$important
-@@||*.evgnet.com^$important
-@@||*.split.io^$important
-@@||bancobradesco.tt.omtrdc.net^$important
-@@||mcfgc5jz20lrcyt3-tck4mt4w9ty.device.marketingcloudapis.com^$important
+@@||iti.itau^$important
+@@||inter.co^$important
+@@||bancointer.com.br^$important
 @@||nubank.com.br^$important
-@@||*.nubank.com.br^$important
-@@||itauunibanco2.us-4.evergage.com^$important
-@@||*.gastecnologia.com.br^$important
-@@||bancobmg.tt.omtrdc.net^$important
-@@||bancobmgsa.data.adobedc.net^$important
-@@/.*banco.*/$important
-@@||*mercadopago*^$important
-@@||*picpay*^$important
-@@||smart-checkout.bemobi.com^$important
+@@||nubank.com^$important
+@@||bancomercantil.com.br^$important
+@@||next.me^$important
+@@||safra.com.br^$important
+@@||bancobmg.com.br^$important
+@@||santander.com.br^$important
+@@||santander.com^$important
+@@||c6bank.com.br^$important
+@@||bancopan.com.br^$important
+@@||sicoob.com.br^$important
+@@||sicredi.com.br^$important
+@@||btgpactual.com^$important
+!
+! --- Adquirentes e Maquininhas de Cartao (Acquirers and POS) ---
+@@||cielo.com.br^$important
+@@||cielo.com^$important
+@@||userede.com.br^$important
+@@||stone.com.br^$important
+@@||safrapay.com.br^$important
+@@||getnet.com.br^$important
+@@||sumup.com.br^$important
+@@||sumup.com^$important
+@@||ton.com.br^$important
+@@||infinitepay.io^$important
+@@||granitopagamentos.com.br^$important
+@@||globalpayments.com^$important
+!
+! --- Gateways de Pagamento (Payment Gateways) ---
+@@||pagar.me^$important
+@@||ebanx.com^$important
+@@||ebanx.com.br^$important
+@@||iugu.com^$important
+@@||asaas.com^$important
+@@||vindi.com.br^$important
+@@||hotmart.com^$important
+@@||eduzz.com^$important
+@@||monetizze.com.br^$important
+@@||yampi.com.br^$important
+!
+! --- Pagamentos e Carteiras Digitais (Digital Wallets) ---
+@@||mercadopago.com^$important
+@@||mercadopago.com.br^$important
+@@||pagseguro.com.br^$important
+@@||pagseguro.uol.com.br^$important
+@@||pagbank.com.br^$important
+@@||picpay.com^$important
+@@||picpay.com.br^$important
+@@||paypal.com^$important
+@@||paypalobjects.com^$important
+@@||zuldigital.com.br^$important
+@@||estapar.com.br^$important
+@@||stripe.com^$important
+@@||stripe.network^$important
+@@||wise.com^$important
+@@||payoneer.com^$important
+!
+! --- Beneficios Corporativos (Corporate Benefits) ---
+@@||sodexobeneficios.com.br^$important
+@@||pluxee.com.br^$important
+@@||alelo.com.br^$important
+@@||ticket.com.br^$important
+@@||vr.com.br^$important
+!
+! --- Modulos de Seguranca e Antifraude (Anti-fraud) ---
+@@||gastecnologia.com.br^$important
+@@||clearsale.com.br^$important
+@@||konduto.com^$important
+!
+! --- Infraestrutura de Backend e Analytics Bancario ---
+@@||bemobi.com^$important
+@@||evergage.com^$important
+@@||igodigital.com^$important
+@@||wzrkt.com^$important
+@@||split.io^$important
+@@||omtrdc.net^$important
+@@||marketingcloudapis.com^$important
+@@||adobedc.net^$important
