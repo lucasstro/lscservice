@@ -36,5 +36,6 @@
 @@||*.onelink.me^$important
 @@||api.franciscajoias.com.br^$important
 @@/.*api.*/$important
+@@/api.*.*/$important
 @@/.*duolingo.*/$important
 @@||scs-config-use2.bixbyllm.com^$important
