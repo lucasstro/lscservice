@@ -37,3 +37,4 @@
 @@||api.franciscajoias.com.br^$important
 @@/.*api.*/$important
 @@||excess.duolingo.com^$important
+@@||scs-config-use2.bixbyllm.com^$important
