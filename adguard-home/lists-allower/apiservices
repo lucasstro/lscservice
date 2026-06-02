@@ -3,7 +3,7 @@
 ! Description: API, APP services.
 ! Version: 2
 ! Homepage: https://raw.githubusercontent.com/lucasstro/lscservice/refs/heads/main/adguard-home/lists-allower/appservices
-! Last modified: 2024-12-13
+! Last modified: 2026-06-02
 !
 @@||api.segment.io^$important
 @@||app-measurement.com^$important
