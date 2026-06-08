@@ -69,6 +69,9 @@
 @@||luma.com^$important
 @@||me-qr.com^$important
 @@||universal-assistance.com^$important
+@@||api.ipify.org^$important
+@@||plausible.io^$important
+@@||claritycheck.com^$important
 !
 ! --- Streaming, Mídia e CDNs Globais ---
 @@||nflxso.net^$important
@@ -78,4 +81,3 @@
 @@||fastly-edge.com^$important
 @@||aaplimg.com^$important
 @@||4shared.com^$important
-@@||api.ipify.org^$important
