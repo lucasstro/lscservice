@@ -26,6 +26,7 @@
 @@||bancobmg.com.br^$important
 @@||santander.com.br^$important
 @@||santander.com^$important
+@@||santanderfinanciamentos.com.br^$important
 @@||c6bank.com.br^$important
 @@||bancopan.com.br^$important
 @@||sicoob.com.br^$important
@@ -33,6 +34,8 @@
 @@||btgpactual.com^$important
 @@||discovery.nu.international^$important
 @@||hiper.legal^$important
+@@||relacionamento.bv.com.br^$important
+@@||bv.com.br^$important
 !
 ! --- Adquirentes e Maquininhas de Cartao (Acquirers and POS) ---
 @@||cielo.com.br^$important
