@@ -7,8 +7,6 @@
 @@||*^$client=127.0.0.1
 
 ! --- Domínios e Subdomínios (Otimizados) ---
-@@||*.org^$important
-@@||*.org.br^$important
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
 @@||bitdefender.com^$important
@@ -91,6 +89,8 @@
 @@||*.jus.br$important
 @@||*.gov$important
 @@||cnpj.biz^$important
+@@||*.org^$important
+@@||*.org.br^$important
 
 ! --- Testes de Conectividade e Captive Portals ---
 @@||*captive*^$important
