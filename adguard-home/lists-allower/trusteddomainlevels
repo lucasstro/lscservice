@@ -151,13 +151,16 @@
 @@||services.vipcommerce.com.br^$important
 @@||access3.solarmanpv.com^$important
 !
-! --- Infraestrutura de Rede e DNS Resolvers ---
+! --- Infraestrutura de Rede e DNS Resolvers e VPN---
 ! (Essencial para tracert, ping e logs locais)
 @@||in-addr.arpa^$important
 @@||dns.google^$important
 @@||one.one.one.one^$important
 @@||ipinfo.io^$important
 @@||carriersignal.info^$important
+@@||nordvpn.com^$important
+@@||openvpn.net^$important
+@@||wireguard.com^$important
 
 ! --- Segurança, Antivírus e Validação de Identidade ---
 @@||kaspersky-labs.com^$important
