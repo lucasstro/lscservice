@@ -84,11 +84,12 @@
 @@||shalltry.com^$important
 @@||imguol.com^$important
 @@||nutrium.com^$important
+@@||bixbyllm.com^$important
 
 ! --- Domínios Governamentais (Seguros) ---
-@@*.gov.br*$important
-@@*.jus.br*$important
-@@*.gov*$important
+@@||*.gov.br*$important
+@@||*.jus.br*$important
+@@||*.gov*$important
 @@||cnpj.biz^$important
 
 ! --- Testes de Conectividade e Captive Portals ---
