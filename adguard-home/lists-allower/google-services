@@ -8,6 +8,7 @@
 
 ! --- Domínios Principais e APIs do Google ---
 @@||google.com^$important
+@@||google.com.br^$important
 @@||googleapis.com^$important
 @@||gstatic.com^$important
 @@||googleusercontent.com^$important
