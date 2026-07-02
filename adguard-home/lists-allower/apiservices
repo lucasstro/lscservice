@@ -20,6 +20,7 @@
 @@||qualtrics.com^$important
 @@||ipv4.icanhazip.com^$important
 @@||dpm.demdex.net^$important
+@@||disneyplus.com^$important
 !
 ! --- Mobilidade e Delivery (Transport and Food Delivery) ---
 @@||ifood.com.br^$important
@@ -39,6 +40,7 @@
 @@||tplinkcloud.com^$important
 @@||api.met.no^$important
 @@||access3.solarmanpv.com^$important
+@@||router.miwifi.com^$important
 !
 ! --- Infraestrutura, Virtualizacao e IA (Infrastructure, Virtualization and AI) ---
 @@||docker.io^$important
@@ -97,3 +99,4 @@
 @@||aaplimg.com^$important
 @@||4shared.com^$important
 @@||snackvideo.com^$important
+@@||frontier.byteoversea.com^$important
