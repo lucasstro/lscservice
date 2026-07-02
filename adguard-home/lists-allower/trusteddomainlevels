@@ -93,6 +93,9 @@
 @@||*.org^$important
 @@||*.org.br^$important
 
+! --- Healthcare ---
+@@||*.med.br^$important
+
 ! --- Testes de Conectividade e Captive Portals ---
 @@||*captive*^$important
 @@||connectivitycheck.gstatic.com^$important
