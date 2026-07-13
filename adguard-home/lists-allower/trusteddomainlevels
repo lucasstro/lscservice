@@ -170,6 +170,7 @@
 @@||wireguard.com^$important
 @@||ams.jftechws.com^$important
 @@||bf57537nqo.bf.dynatrace.com^$important
+@@||*beacon*.*^$important
 
 ! --- Segurança, Antivírus e Validação de Identidade ---
 @@||kaspersky-labs.com^$important
