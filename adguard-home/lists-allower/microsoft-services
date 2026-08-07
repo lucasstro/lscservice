@@ -35,7 +35,8 @@
 @@||download.microsoft.com^$important
 @@||in.appcenter.ms^$important
 @@||update.windows.com^$important
-@@||*.skype.com^$important
+@@||skype.com^$important
 @@||installer.teams.static.microsoft^$important
 @@||aka.ms^$important
-@@||*.windowsupdate.com^$important
+@@||windowsupdate.com^$important
+@@||location.live.net
