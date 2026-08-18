@@ -127,6 +127,7 @@
 
 ! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
 @@||*cdn*^$important
+@@||*sdk*^$important
 @@||*chatgpt*^$important
 @@||*ai*^$important
 @@||*data*^$important
@@ -175,7 +176,7 @@
 @@||ams.jftechws.com^$important
 @@||bf57537nqo.bf.dynatrace.com^$important
 @@||*beacon*.*^$important
-
+!
 ! --- Segurança, Antivírus e Validação de Identidade ---
 @@||kaspersky-labs.com^$important
 @@||kaspersky.com^$important
@@ -184,3 +185,10 @@
 @@||avast.com^$important
 @@||bitdefender.com^$important
 @@||*.incognia.com^$important
+!
+! --- Privacidade e Backend de Aplicações ---
+@@||goadopt.io^$important
+@@||nizza.com^$important
+!
+! --- Notificações Push e Comunicação (CRM) ---
+@||braze.com^$important
