@@ -1,0 +1,15 @@
+! Projeto: Bloqueio Global de Chats
+! Versao: 1.1
+! Data: 22/08/2026
+! Autor: Lucas Castro
+
+! === BLOQUEIO GLOBAL ===
+! Bloqueia qualquer dominio que contenha a palavra "chat" em sua estrutura
+/chat/$client=10.0.11.28
+
+! === LIBERACAO EXPLICITA (EXCECOES) ===
+! Libera os dominios do ChatGPT / OpenAI e todos os seus subdominios
+@@||chatgpt.com^$client=10.0.11.28
+@@||openai.com^$client=10.0.11.28
+@@||oaistatic.com^$client=10.0.11.28
+@@||oaiusercontent.com^$client=10.0.11.28
