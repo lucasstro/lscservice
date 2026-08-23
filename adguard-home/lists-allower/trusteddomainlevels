@@ -1,102 +1,48 @@
 ! Title: Trusted Domain Levels
-! Description: Government and non-government domains
-! Version: 1.1
-! Last modified: 2026-03-13
+! Description: Government and non-government domains (Otimizado)
+! Version: 1.2
+! Last modified: 2026-08-22
 
 ! --- Exceção para Localhost ---
 @@||*^$client=127.0.0.1
 
-! --- Domínios e Subdomínios (Otimizados) ---
-@@||adguard-dns.io^$important
-@@||adguard.com^$important
-@@||bitdefender.com^$important
-@@||dell.com^$important
-@@||docker.io^$important
-@@||freeimage.host^$important
-@@||globo.com^$important
-@@||hp.com^$important
-@@||ichef.bbci.co.uk^$important
-@@||iili.io^$important
-@@||lscservice.net^$important
-@@||m2appinsight.com^$important
-@@||mega.io^$important
-@@||mega.nz^$important
-@@||messagebird.com^$important
-@@||mikrotik.com^$important
-@@||mobile.launchdarkly.com^$important
-@@||mt.lv^$important
-@@||mybbc-analytics.files.bbci.co.uk^$important
-@@||netflix.com^$important
-@@||nflximg.com^$important
-@@||nodesource.com^$important
-@@||nvidia.com^$important
-@@||postgresql.*^$important
-@@||proxmox.*^$important
-@@||deb.org^$important
-@@||redd.it^$important
-@@||reddit.com^$important
-@@||redis.io^$important
-@@||smartthings.com^$important
-@@||squarespace.com^$important
-@@||st.agrd.eu^$important
-@@||static.files.bbci.co.uk^$important
-@@||theorangesite.store^$important
-@@||tiktok.*^$important
-@@||tiktokv.*^$important
-@@||tiktok-minis.us^$important
-@@||tp-link.com^$important
-@@||tvx.adgrx.com^$important
-@@||ubuntu.*^$important
-@@||4x4brasil.com.br^$important
-@@||armazemcentralbh.com^$important
-@@||y2mate.com^$important
-@@||rtb.adgrx.com^$important
-@@||licensing.bitmovin.com^$important
-@@||mxa.mailgun.org^$important
-@@||analytics-ingress-global.bitmovin.com^$important
-@@||y2meta.is^$important
-@@||nya2.com^$important
-@@||u2ku.com^$important
-@@||track.convertmb.com^$important
-@@||ak.stikroltiltoowi.net^$important
-@@||sdk.iad-05.braze.com^$important
-@@||prod2-live-chat.sprinklr.com^$important
-@@||report.c1101.gbqofs.io^$important
-@@||verify.uxcam.com^$important
-@@||browser-intake-datadoghq.com^$important
-@@||iamcache.braze^$important
-@@||js-cdn.dynatrace.com^$important
-@@||ldsfamilysearchappdev.sc.omtrdc.net^$important
-@@||sdk.iad-07.braze.com^$important
-@@||ldschurch.tt.omtrdc.net^$important
-@@||w.usabilla.com^$important
-@@||bf99293tkn.bf.dynatrace.com^$important
-@@||o57980.ingest.us.sentry.io^$important
-@@||sentry.io^$important
-@@||qcc.qualcomm.com^$important
-@@||chatwoot.*^$important
-@@||br.search.yahoo.com^$important
-@@||secure.insightexpressai.com^$important
-@@||spade.twitch.tv^$important
-@@||i.imgur.com^$important
-@@||video-edge-a583aa.sjc05.hls.live-video.net^$important
-@@||shalltry.com^$important
-@@||imguol.com^$important
-@@||nutrium.com^$important
-@@||bixbyllm.com^$important
-@@||gitlab.mobiuspace.net^$important
-@@||www.tupi.fm^$important
-!
 ! --- Domínios Governamentais e organizações ---
-@@||*.gov.br$important
-@@||*.jus.br$important
-@@||*.gov$important
+@@||*.gov.br^$important
+@@||*.jus.br^$important
+@@||*.gov^$important
 @@||cnpj.biz^$important
 @@||*.org^$important
 @@||*.org.br^$important
 
 ! --- Healthcare ---
 @@||*.med.br^$important
+
+! --- Redes Sociais e CDNs de Mídia ---
+@@||i.pinimg.com^$important
+@@||pbs.twimg.com^$important
+@@||tiktok.*^$important
+@@||tiktokv.*^$important
+@@||tiktok-minis.us^$important
+@@||redd.it^$important
+@@||reddit.com^$important
+@@||i.imgur.com^$important
+@@||imguol.com^$important
+
+! --- Streaming, Mídia e Telemetria Web ---
+@@||a-fds.youborafds01.com^$important
+@@||netflix.com^$important
+@@||nflximg.com^$important
+@@||globo.com^$important
+@@||ichef.bbci.co.uk^$important
+@@||mybbc-analytics.files.bbci.co.uk^$important
+@@||static.files.bbci.co.uk^$important
+@@||video-edge-a583aa.sjc05.hls.live-video.net^$important
+@@||spade.twitch.tv^$important
+@@||y2mate.com^$important
+@@||y2meta.is^$important
+@@||licensing.bitmovin.com^$important
+@@||analytics-ingress-global.bitmovin.com^$important
+@@||www.tupi.fm^$important
 
 ! --- Testes de Conectividade e Captive Portals ---
 @@||*captive*^$important
@@ -105,15 +51,111 @@
 @@||connectivitycheck.unisoc.com^$important
 @@||clients3.google.com^$important
 @@||msftconnecttest.com^$important
-@@||f.clarity.ms^important
 @@||msftncsi.com^$important
-@@||b.root-servers.net^$important
 @@||nav-edge.smartscreen.microsoft.com^$important
 @@||http.microsoft.com^$important
 @@||detectportal.firefox.com^$important
+@@||b.root-servers.net^$important
+
+! --- Infraestrutura de Rede, DNS Resolvers e VPN ---
+@@||in-addr.arpa^$important
+@@||dns.google^$important
+@@||one.one.one.one^$important
+@@||ipinfo.io^$important
+@@||carriersignal.info^$important
+@@||nordvpn.com^$important
+@@||openvpn.net^$important
+@@||wireguard.com^$important
+@@||ams.jftechws.com^$important
+@@||*beacon*.*^$important
+
+! --- Segurança, Antivírus e Validação de Identidade ---
+@@||kaspersky-labs.com^$important
+@@||kaspersky.com^$important
+@@||mcafee.com^$important
+@@||norton.com^$important
+@@||avast.com^$important
+@@||bitdefender.com^$important
+@@||*.incognia.com^$important
+
+! --- Monitoramento, Depuração e Feature Flags ---
+@@||events.launchdarkly.com^$important
+@@||mobile.launchdarkly.com^$important
+@@||sessions.bugsnag.com^$important
+@@||f.clarity.ms^$important
+@@||sentry.io^$important
+@@||o57980.ingest.us.sentry.io^$important
+@@||js-cdn.dynatrace.com^$important
+@@||bf99293tkn.bf.dynatrace.com^$important
+@@||bf57537nqo.bf.dynatrace.com^$important
+@@||browser-intake-datadoghq.com^$important
+@@||verify.uxcam.com^$important
+
+! --- Privacidade e Consentimento (Backend) ---
+@@||geolocation.onetrust.com^$important
+@@||goadopt.io^$important
+@@||nizza.com^$important
+
+! --- Notificações Push, CRM e Comunicação ---
+@@||braze.com^$important
+@@||iamcache.braze^$important
+@@||sdk.iad-05.braze.com^$important
+@@||sdk.iad-07.braze.com^$important
+@@||messagebird.com^$important
+@@||mxa.mailgun.org^$important
+@@||prod2-live-chat.sprinklr.com^$important
+@@||chatwoot.*^$important
 @@||webex.com^$important
 
-! --- Padrões Flexíveis (Marcas) ---
+! --- Marcas, Hardware e Cloud (Geral) ---
+@@||adguard.com^$important
+@@||adguard-dns.io^$important
+@@||dell.com^$important
+@@||hp.com^$important
+@@||nvidia.com^$important
+@@||qcc.qualcomm.com^$important
+@@||mikrotik.com^$important
+@@||mt.lv^$important
+@@||tp-link.com^$important
+@@||smartthings.com^$important
+@@||proxmox.*^$important
+@@||ubuntu.*^$important
+@@||deb.org^$important
+@@||docker.io^$important
+@@||redis.io^$important
+@@||postgresql.*^$important
+@@||nodesource.com^$important
+@@||lscservice.net^$important
+@@||mega.io^$important
+@@||mega.nz^$important
+
+! --- Domínios e Subdomínios Diversos ---
+@@||freeimage.host^$important
+@@||iili.io^$important
+@@||m2appinsight.com^$important
+@@||squarespace.com^$important
+@@||st.agrd.eu^$important
+@@||theorangesite.store^$important
+@@||tvx.adgrx.com^$important
+@@||4x4brasil.com.br^$important
+@@||armazemcentralbh.com^$important
+@@||rtb.adgrx.com^$important
+@@||nya2.com^$important
+@@||u2ku.com^$important
+@@||track.convertmb.com^$important
+@@||ak.stikroltiltoowi.net^$important
+@@||report.c1101.gbqofs.io^$important
+@@||ldsfamilysearchappdev.sc.omtrdc.net^$important
+@@||ldschurch.tt.omtrdc.net^$important
+@@||w.usabilla.com^$important
+@@||br.search.yahoo.com^$important
+@@||secure.insightexpressai.com^$important
+@@||shalltry.com^$important
+@@||nutrium.com^$important
+@@||bixbyllm.com^$important
+@@||gitlab.mobiuspace.net^$important
+
+! --- Padrões Flexíveis (Hardware/Marcas) ---
 @@||docker.*^$important
 @@||*samsung*.*^$important
 @@||*tp-link*.*^$important
@@ -127,7 +169,7 @@
 @@||*mediatek*.*^$important
 @@||*android*.*^$important
 
-! --- Palavras-chave Genéricas (Cuidado: podem gerar falsos negativos em larga escala) ---
+! --- Palavras-chave Genéricas (Cuidado com falsos negativos) ---
 @@||*cdn*^$important
 @@||*sdk*^$important
 @@||*chatgpt*^$important
@@ -135,7 +177,6 @@
 @@||*data*^$important
 @@||*app*^$important
 @@||*api*^$important
-@@||*ai^$important
 @@||*cloudflare*^$important
 @@||*security*^$important
 @@||*notif*^$important
@@ -164,33 +205,3 @@
 @@||didistatic.com^$important
 @@||life360.com^$important
 @@||i.sng.link^$important
-!
-! --- Infraestrutura de Rede e DNS Resolvers e VPN---
-! (Essencial para tracert, ping e logs locais)
-@@||in-addr.arpa^$important
-@@||dns.google^$important
-@@||one.one.one.one^$important
-@@||ipinfo.io^$important
-@@||carriersignal.info^$important
-@@||nordvpn.com^$important
-@@||openvpn.net^$important
-@@||wireguard.com^$important
-@@||ams.jftechws.com^$important
-@@||bf57537nqo.bf.dynatrace.com^$important
-@@||*beacon*.*^$important
-!
-! --- Segurança, Antivírus e Validação de Identidade ---
-@@||kaspersky-labs.com^$important
-@@||kaspersky.com^$important
-@@||mcafee.com^$important
-@@||norton.com^$important
-@@||avast.com^$important
-@@||bitdefender.com^$important
-@@||*.incognia.com^$important
-!
-! --- Privacidade e Backend de Aplicações ---
-@@||goadopt.io^$important
-@@||nizza.com^$important
-!
-! --- Notificações Push e Comunicação (CRM) ---
-@||braze.com^$important
