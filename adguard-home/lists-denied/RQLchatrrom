@@ -7,6 +7,8 @@
 ! Bloqueia qualquer dominio que contenha a palavra "chat" em sua estrutura
 /*chat*/$client=10.0.11.28
 /*meet*/$client=10.0.11.28
+/*bapo*/$client=10.0.11.28
+/*relacionamento*/$client=10.0.11.28
 
 ! === LIBERACAO EXPLICITA (EXCECOES) ===
 ! Libera os dominios do ChatGPT / OpenAI e todos os seus subdominios
