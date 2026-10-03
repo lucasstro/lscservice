@@ -156,6 +156,10 @@
 @@||bixbyllm.com^$important
 @@||gitlab.mobiuspace.net^$important
 
+! --- Inteligencia artificial ---
+@@||kimi.com^$important
+@@||crbug.com^$important
+
 ! --- Padrões Flexíveis (Hardware/Marcas) ---
 @@||docker.*^$important
 @@||*samsung*.*^$important
