@@ -1,16 +1,17 @@
 !
 ! Title: Payments, Banks and Acquirers
 ! Description: Lista completa de permissoes para sistemas financeiros, pagamentos e adquirentes
-! Version: 4
-! Last modified: 2026-06-02
+! Version: 5
 !
+
 ! --- Top-Level Domains (TLDs) Bancarios ---
 @@||banco^$important
 @@||bradesco^$important
-!
+
 ! --- Bancos Nacionais (Brasil) ---
 @@||bb.com.br^$important
 @@||bancodobrasil.com.br^$important
+@@||emktbbts.com.br^$important
 @@||bradesco.com.br^$important
 @@||caixa.gov.br^$important
 @@||cef.gov.br^$important
@@ -27,7 +28,7 @@
 @@||santander.com.br^$important
 @@||santander.com^$important
 @@||santanderfinanciamentos.com.br^$important
-@@||c6bank.com.br^$important
+@@||c6bank.com^$important
 @@||bancopan.com.br^$important
 @@||sicoob.com.br^$important
 @@||sicredi.com.br^$important
@@ -36,7 +37,7 @@
 @@||hiper.legal^$important
 @@||relacionamento.bv.com.br^$important
 @@||bv.com.br^$important
-!
+
 ! --- Adquirentes e Maquininhas de Cartao (Acquirers and POS) ---
 @@||cielo.com.br^$important
 @@||cielo.com^$important
@@ -51,7 +52,7 @@
 @@||granitopagamentos.com.br^$important
 @@||globalpayments.com^$important
 @@||utua.com.br^$important
-!
+
 ! --- Gateways de Pagamento (Payment Gateways) ---
 @@||pagar.me^$important
 @@||ebanx.com^$important
@@ -63,7 +64,7 @@
 @@||eduzz.com^$important
 @@||monetizze.com.br^$important
 @@||yampi.com.br^$important
-!
+
 ! --- Pagamentos e Carteiras Digitais (Digital Wallets) ---
 @@||mercadopago.com^$important
 @@||mercadopago.com.br^$important
@@ -82,33 +83,33 @@
 @@||payoneer.com^$important
 @@||pay.shopee.sg^$important
 @@||tinypass.com^$important
-!
+
 ! --- Beneficios Corporativos (Corporate Benefits) ---
 @@||sodexobeneficios.com.br^$important
 @@||pluxee.com.br^$important
 @@||alelo.com.br^$important
 @@||ticket.com.br^$important
 @@||vr.com.br^$important
-!
+
 ! --- Modulos de Seguranca e Antifraude (Anti-fraud) ---
 @@||gastecnologia.com.br^$important
 @@||clearsale.com.br^$important
 @@||konduto.com^$important
 @@||service2.us.incognia.com^$important
-@@||wup-3347ea06.bzl.v2.we-stats.com^$important
+@@||we-stats.com^$important
 @@||ftd.quodxx.com.br^$important
 @@||dnofd.com^$important
 @@||online-metrix.net^$important
 @@||riskified.com^$important
 @@||shieldsquare.net^$important
-!
+
 ! --- Infraestrutura de Backend e Analytics Bancario ---
 @@||bemobi.com^$important
-@@||evergage.com^$important
+@@|xevergage.com^$important
 @@||igodigital.com^$important
 @@||wzrkt.com^$important
 @@||split.io^$important
 @@||omtrdc.net^$important
 @@||marketingcloudapis.com^$important
-@@||adobedc.net^$important
+@@|xadobedc.net^$important
 @@||unico.run^$important
