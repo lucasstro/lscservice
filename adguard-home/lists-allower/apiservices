@@ -1,9 +1,9 @@
 !
 ! Title: API and App Services
 ! Description: API and APP services for proper application functionality
-! Version: 3
-! Last modified: 2026-06-02
+!! Version: 4
 !
+
 ! --- Telemetria, Crashlytics e SDKs (Essencial para Apps Mobile) ---
 @@||app-measurement.com^$important
 @@||firebaseio.com^$important
@@ -11,7 +11,7 @@
 @@||googleapis.com^$important
 @@||onesignal.com^$important
 @@||segment.io^$important
-@@||amplitude.com^$important
+@@|xamplitude.com^$important
 @@||useinsider.com^$important
 @@||sentry.io^$important
 @@||onelink.me^$important
@@ -19,14 +19,18 @@
 @@||intercom.io^$important
 @@||qualtrics.com^$important
 @@||ipv4.icanhazip.com^$important
-@@||dpm.demdex.net^$important
+@@|xdpm.demdex.net^$important
 @@||disneyplus.com^$important
 @@||us.watch.iot.mi.com^$important
 @@||us.hlth.io.mi.com^$important
 @@||icg-in.com^$important
 @@||dynatrace.com^$important
 @@||track.wattpad.com^$important
-!
+@@|xnewrelic.com^$important
+@@||bugsnag.com^$important
+@@||mixpanel.com^$important
+@@||hotjar.com^$important
+
 ! --- Mobilidade e Delivery (Transport and Food Delivery) ---
 @@||ifood.com.br^$important
 @@||uber.com^$important
@@ -36,7 +40,7 @@
 @@||ze.delivery^$important
 @@||rappi.com.br^$important
 @@||rappi.com^$important
-!
+
 ! --- Casa Inteligente e IoT (Smart Home and Internet of Things) ---
 @@||home-assistant.io^$important
 @@||ui.nabu.casa^$important
@@ -46,7 +50,12 @@
 @@||api.met.no^$important
 @@||access3.solarmanpv.com^$important
 @@||router.miwifi.com^$important
-!
+@@||lgthinq.com^$important
+@@||lgemembers.com^$important
+@@||goqual.com^$important
+@@||cedock.com^$important
+@@||iotbing.com^$important
+
 ! --- Infraestrutura, Virtualizacao e IA (Infrastructure, Virtualization and AI) ---
 @@||docker.io^$important
 @@||docker.com^$important
@@ -56,17 +65,17 @@
 @@||githubusercontent.com^$important
 @@||huggingface.co^$important
 @@||api.fstr.rocks^$important
-@@||dev.visualwebsiteoptimizer.com^$important
+@@||dev.visualwebsitewoptimizer.com^$important
 @@||obus-dc20123-sg.heytapmobile.com^$important
 @@||tap.pm^$important
 @@||figma.bot^$important
-!
+
 ! --- Streaming e Midia (Streaming and Media) ---
 @@||netflix.com^$important
 @@||soundcloud.com^$important
 @@||api.snapkit.com^$important
-!
-! --- Educação e Plataformas de Emprego ---
+
+! --- Educacao e Plataformas de Emprego ---
 @@||duolingo.com^$important
 @@||anhanguera.com^$important
 @@||empregare.com^$important
@@ -75,8 +84,8 @@
 @@||myworkdayjobs.com^$important
 @@||eesysoft.com^$important
 @@||estacio.br^$important
-!
-! --- Aplicativos de Serviços e Utilidades ---
+
+! --- Aplicativos de Servicos e Utilidades ---
 @@||gympass.com^$important
 @@||citta-mobi.com^$important
 @@||didiglobal.com^$important
@@ -92,13 +101,13 @@
 @@||duse1-turn.fpjs.io^$important
 @@||embeds.iubenda.com^$important
 @@||api.nexti.com^$important
-@@||gos-api.gos-gsp.io^$important
+@@|xgos-api.gos-gsp.io^$important
 @@||memed.com.br^$important
 @@||allawnos.com^$important
 @@||sg.facemojikeyboard.com^$important
 @@||linktr.ee^$important
 @@||strava.com^$important
-@@||fstr.rocks^$important
+@@|xfstr.rocks^$important
 @@||svcmot.com^$important
 @@||img.os-content.com^$important
 @@||gpi2.life360.com^$important
@@ -109,8 +118,8 @@
 @@||tjinit-global-event.babybus.com^$important
 @@||trancare.transsion-os.com^$important
 @@||uc-track-gl.heytapmobi.com^$important
-!
-! --- Streaming, Mídia e CDNs Globais ---
+
+! --- Streaming, Midia e CDNs Globais ---
 @@||nflxso.net^$important
 @@||nflximg.net^$important
 @@||deezer.com^$important
