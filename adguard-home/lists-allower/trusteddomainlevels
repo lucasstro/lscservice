@@ -1,50 +1,50 @@
 ! Title: Trusted Domain Levels
 ! Description: Government and non-government domains (Otimizado)
-! Version: 1.2
-! Last modified: 2026-08-22
+! Version: 1.3
 
-! --- Exceção para Localhost ---
-@@||*^$client=127.0.0.1
+! --- Excecao para Localhost ---
+@@||*^=127.0.0.1
 
-! --- Domínios Governamentais e organizações ---
-@@||*.gov.br^$important
-@@||*.jus.br^$important
-@@||*.gov^$important
-@@||cnpj.biz^$important
-@@||*.org^$important
-@@||*.org.br^$important
+! --- Dominios Governamentais e organizacoes ---
+@@||*.gov.br^
+@@||*.jus.br^
+@@||*.gov^
+@@||cnpj.biz^
+@@||*.org^
+@@||*.org.br^
 
 ! --- Healthcare ---
-@@||*.med.br^$important
+@@||*.med.br^
 
-! --- Redes Sociais e CDNs de Mídia ---
-@@||i.pinimg.com^$important
-@@||pbs.twimg.com^$important
-@@||tiktok.*^$important
-@@||tiktokv.*^$important
-@@||tiktok-minis.us^$important
-@@||redd.it^$important
-@@||reddit.com^$important
-@@||i.imgur.com^$important
-@@||imguol.com^$important
+! --- Redes Sociais e CDNs de Midia ---
+@@||i.pinimg.com^
+@@||pbs.twimg.com^
+@@||tiktok.*^
+@@||tiktokv.*^
+@@||tiktok-minis.us^
+@@||tiktokw.us^
+@@||redd.it^
+@@||reddit.com^
+@@||i.imgur.com^
+@@||imguol.com^
 
-! --- Streaming, Mídia e Telemetria Web ---
-@@||a-fds.youborafds01.com^$important
-@@||netflix.com^$important
-@@||nflximg.com^$important
-@@||globo.com^$important
-@@||ichef.bbci.co.uk^$important
-@@||mybbc-analytics.files.bbci.co.uk^$important
-@@||static.files.bbci.co.uk^$important
-@@||video-edge-a583aa.sjc05.hls.live-video.net^$important
-@@||spade.twitch.tv^$important
-@@||y2mate.com^$important
-@@||y2meta.is^$important
-@@||licensing.bitmovin.com^$important
-@@||analytics-ingress-global.bitmovin.com^$important
-@@||www.tupi.fm^$important
-
-! --- Testes de Conectividade e Captive Portals ---
+! --- Streaming, Midia e Telemetria Web ---
+@@||a-fds.youborafds01.com^
+@@||netflix.com^
+@@||nflximg.com^
+@@||globo.com^
+@@||ichef.bbci.co.uk^
+@@||mybbc-analytics.files.bbci.co.uk^
+@@||static.files.bbci.co.uk^
+@@||video-edge-a583aa.sjc05.hls.live-video.net^
+@@||spade.twitch.tv^
+@@||y2mate.com^
+@@||y2meta.is^
+@@||licensing.bitmovin.com^
+@@||analytics-ingress-global.bitmovin.com^
+@@||www.tupi.fm^
+!
+ --- Testes de Conectividade e Captive Portals ---
 @@||*captive*^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.android.com^$important
@@ -52,7 +52,7 @@
 @@||clients3.google.com^$important
 @@||msftconnecttest.com^$important
 @@||msftncsi.com^$important
-@@||nav-edge.smartscreen.microsoft.com^$important
+@@|xnav-edge.smartscreen.microsoft.com^$important
 @@||http.microsoft.com^$important
 @@||detectportal.firefox.com^$important
 @@||b.root-servers.net^$important
@@ -68,8 +68,8 @@
 @@||wireguard.com^$important
 @@||ams.jftechws.com^$important
 @@||*beacon*.*^$important
-
-! --- Segurança, Antivírus e Validação de Identidade ---
+!
+ --- Seguranca, Antivirus e Validacao de Identidade ---
 @@||kaspersky-labs.com^$important
 @@||kaspersky.com^$important
 @@||mcafee.com^$important
@@ -78,15 +78,15 @@
 @@||bitdefender.com^$important
 @@||*.incognia.com^$important
 
-! --- Monitoramento, Depuração e Feature Flags ---
+! --- Monitoramento, Depuracao e Feature Flags ---
 @@||events.launchdarkly.com^$important
 @@||mobile.launchdarkly.com^$important
-@@||sessions.bugsnag.com^$important
-@@||f.clarity.ms^$important
+@@||clarity.ms^$important
+@@||bugsnag.com^$important
 @@||sentry.io^$important
 @@||o57980.ingest.us.sentry.io^$important
 @@||js-cdn.dynatrace.com^$important
-@@||bf99293tkn.bf.dynatrace.com^$important
+@@||bf99293tknbf.dynatrace.com^$important
 @@||bf57537nqo.bf.dynatrace.com^$important
 @@||browser-intake-datadoghq.com^$important
 @@||verify.uxcam.com^$important
@@ -96,7 +96,7 @@
 @@||goadopt.io^$important
 @@||nizza.com^$important
 
-! --- Notificações Push, CRM e Comunicação ---
+! --- Notificacoes Push, CRM e Comunicacao ---
 @@||braze.com^$important
 @@||iamcache.braze^$important
 @@||sdk.iad-05.braze.com^$important
@@ -106,8 +106,12 @@
 @@||prod2-live-chat.sprinklr.com^$important
 @@||chatwoot.*^$important
 @@||webex.com^$important
-
-! --- Marcas, Hardware e Cloud (Geral) ---
+@@||activehosted.com^$important
+@@||emlnk9.com^$important
+@@||esputnik.com^$important
+@@||leadjet.com.br^$important
+!
+ --- Marcas, Hardware e Cloud (Geral) ---
 @@||adguard.com^$important
 @@||adguard-dns.io^$important
 @@||dell.com^$important
@@ -130,7 +134,7 @@
 @@||mega.nz^$important
 @@||omnitok.com^$important
 
-! --- Domínios e Subdomínios Diversos ---
+! --- Dominios e Subdominios Diversos ---
 @@||freeimage.host^$important
 @@||iili.io^$important
 @@||m2appinsight.com^$important
@@ -141,13 +145,13 @@
 @@||4x4brasil.com.br^$important
 @@||armazemcentralbh.com^$important
 @@||rtb.adgrx.com^$important
-@@||nya2.com^$important
+@@|xnya2.com^$important
 @@||u2ku.com^$important
 @@||track.convertmb.com^$important
 @@||ak.stikroltiltoowi.net^$important
 @@||report.c1101.gbqofs.io^$important
-@@||ldsfamilysearchappdev.sc.omtrdc.net^$important
-@@||ldschurch.tt.omtrdc.net^$important
+@@|xldsfamilysearchappdev.sc.omtrdc.net^$important
+@@|xldschurch.tt.omtrdc.net^$important
 @@||w.usabilla.com^$important
 @@||br.search.yahoo.com^$important
 @@||secure.insightexpressai.com^$important
@@ -155,16 +159,18 @@
 @@||nutrium.com^$important
 @@||bixbyllm.com^$important
 @@||gitlab.mobiuspace.net^$important
+@@||86growth.com^$important
+@@||pageview-analytics-worker.support-67d.workers.dev^$important
 
 ! --- Inteligencia artificial ---
 @@||kimi.com^$important
 @@||crbug.com^$important
-
-! --- Padrões Flexíveis (Hardware/Marcas) ---
+!
+ --- Padroes Flexiveis (Hardware/Marcas) ---
 @@||docker.*^$important
 @@||*samsung*.*^$important
 @@||*tp-link*.*^$important
-@@||*tplink*.*^$important
+@@||*tplink* .*^$important
 @@||*adobe*.*^$important
 @@||*apple*.*^$important
 @@||*xiaomi*.*^$important
@@ -174,7 +180,7 @@
 @@||*mediatek*.*^$important
 @@||*android*.*^$important
 
-! --- Palavras-chave Genéricas (Cuidado com falsos negativos) ---
+! --- Palavras-chave Genericas ---
 @@||*cdn*^$important
 @@||*sdk*^$important
 @@||*chatgpt*^$important
@@ -191,7 +197,7 @@
 @@||*login*^$important
 @@||*captcha*^$important
 @@||*gateway*^$important
-@@||*cloud*^$important
+@@||*cloud**^$important
 @@||*chat*^$important
 @@||*health*^$important
 @@||*cedus*^$important
@@ -203,10 +209,9 @@
 @@||activity-flow.vtex.com^$important
 @@||io.vtex.com.br^$important
 @@||hits.letras.mus.br^$important
-@@||22gfvcb8.r.us-east-1.awstrack.me^$important
 @@||services.vipcommerce.com.br^$important
 @@||access3.solarmanpv.com^$important
 @@||invertexto.com^$important
 @@||didistatic.com^$important
 @@||life360.com^$important
-@@||i.sng.link^$important
+@@||i.sng.link"$important
