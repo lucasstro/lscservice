@@ -1,29 +1,30 @@
 !
 ! Title: Amazon and AWS Services
 ! Description: Lista de permissoes para servicos Amazon e AWS
-! Version: 2
-! Last modified: 2026-06-02
+! Version: 3
 !
+
 ! --- Amazon Core e AWS ---
 @@||amazon.com^$important
 @@||aws.amazon.com^$important
 @@||amazonaws.com^$important
-@@||a2z.com^$important
+@@|xa2z.com^$important
 @@||amazontrust.com^$important
 @@||cloudfront.net^$important
 @@||awsstatic.com^$important
-!
+
 ! --- Midia, Prime Video e Imagens ---
 @@||media-amazon.com^$important
 @@||ssl-images-amazon.com^$important
 @@||amazonvideo.com^$important
 @@||primevideo.com^$important
 @@||aiv-delivery.net^$important
-!
+
 ! --- Dispositivos, Alexa e Telemetria ---
 @@||amazonalexa.com^$important
 @@||amazon.dev^$important
 @@||amazonwebservicesinc.tt.omtrdc.net^$important
 @@||amplitude.com^$important
-@@||branch.io^$important
+@@|xbranch.io^$important
 @@||s.ss2.us^$important
+@@||awstrack.me^$important
