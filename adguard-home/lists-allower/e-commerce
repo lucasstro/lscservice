@@ -1,9 +1,10 @@
+```
 !
 ! Title: e-commerce
 ! Description: e-commerce domains
-! Version: 2
-! Last modified: 2026-06-02
+! Version: 3
 !
+
 ! --- Varejo Geral e Marketplaces ---
 @@||aliexpress.com^$important
 @@||amazon.com.br^$important
@@ -27,6 +28,7 @@
 @@||temubrasil.com^$important
 @@||franciscajoias.com.br^$important
 @@||vtex.com^$important
+@@||growthsupplements.com.br^$important
 @@||ltwebstatic.com^$important
 @@||floryday.com^$important
 @@||fotop.com^$important
@@ -46,25 +48,35 @@
 @@||mercadoclics.com^$important
 @@||mlstatic.com^$important
 @@||meli.com^$important
-!
+
 ! --- Hardware e Tecnologia ---
 @@||kabum.com.br^$important
 @@||pichau.com.br^$important
 @@||terabyteshop.com.br^$important
-!
+
 ! --- Eletrodomesticos e Pecas ---
 @@||electrolux.com.br^$important
 @@||venax.com.br^$important
 @@||brastemp.com.br^$important
 @@||consul.com.br^$important
-!
+
 ! --- Automotivo ---
 @@||japanmotors.com.br^$important
 @@||pneustore.com.br^$important
-!
+
+! --- Widgets, Provadores e Complementos de Loja ---
+@@||fitanalytics.com^$important
+@@||webmarked.net^$important
+@@||ecomsend.com^$important
+@@||useamp.com^$important
+
 ! --- Infraestrutura de Backend e Analytics ---
 @@||alibaba.com^$important
 @@||taobao.com^$important
 @@||srmdata.com^$important
 @@||uploaddeimagens.com.br^$important
 @@||c.usebeon.io^$important
+@@||shopifysvc.com^$important
+@@||86growth.com^$important
+
+```
